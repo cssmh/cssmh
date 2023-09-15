@@ -10,7 +10,7 @@
 ## 📊 GitHub Stats:
 <p align= "left">
   <img height= "170" src="https://github-readme-stats.vercel.app/api?username=git-momin&theme=synthwave&show_icons=synthwave&include_all_commits=true" />
-  <img height= "170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=git-momin&theme=synthwave&layout=synthwave" />
+  <img height= "170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=git-momin&theme=synthwave&layout=compact" />
 </p>
 
 ### ✍️ Random Dev Quote
