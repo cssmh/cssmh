@@ -12,7 +12,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=git-momin&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)<br>
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-<p align= "center">
-  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=masudursourav&theme=react&show_icons=true&include_all_commits=true" />
-  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masudursourav&theme=react&layout=compact" />
+<p align= "left">
+  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=git-momin&theme=react&show_icons=true&include_all_commits=true" />
+  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=git-momin&theme=react&layout=compact" />
 </p>
