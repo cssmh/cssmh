@@ -15,7 +15,7 @@
 <p align= "left">
   <img height= "170" src="https://github-readme-stats.vercel.app/api?username=cssmh&theme=algolia&show_icons=compact&include_all_commits=true" />
   <img height= "170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cssmh&theme=algolia&layout=compact" />
-  <img height= "170" src="https://github-contributor-stats.vercel.app/api?username=cssmh&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+  <img height= "170" src="https://github-contributor-stats.vercel.app/api?username=cssmh&limit=5&theme=algolia&combine_all_yearly_contributions=true" />
 </p>
 
 ### ✍️ Random Dev Quote
