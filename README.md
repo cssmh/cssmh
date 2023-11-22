@@ -14,3 +14,5 @@
   <img height= "170" src="https://github-readme-stats.vercel.app/api?username=cssmh&theme=algolia&show_icons=compact&include_all_commits=true" />
   <img height= "170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cssmh&theme=algolia&layout=compact" />
 </p>
+## ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
