@@ -19,11 +19,11 @@
   <img height= "170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cssmh&theme=radical&layout=compact" />
 </p>
 
-### 🔝 Total Contributions
+## 🔝 Total Contributions
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cssmh&theme=radical&" alt="cssmh" /></p>
 
-### 🔝 Top Contributed Repo
+## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=cssmh&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
-### ✍️ Random Dev Quote
+###✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
