@@ -3,7 +3,7 @@
 
 🌱 I’m currently learning Node js<br>
 📫 How to reach me: mominitmbstu@gmail.com <br>
-💬 Talk to me about JavaScript React, Node js etc.
+💬 Talk to me about JavaScript React, Node js etc. <br>
 ⚡ Fun fact: Marvel died with iron man and captain america's death | Change my mind! <br><br>
 
 <img align="right" alt="code" width="350" src="https://raw.githubusercontent.com/cssmh/cssmh/main/coding.gif">
