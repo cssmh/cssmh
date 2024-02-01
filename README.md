@@ -6,7 +6,7 @@
 💬 Talk to me about JavaScript React, Node js etc. <br>
 ⚡ Fun fact: Marvel died with iron man and captain america's death | Change my mind! <br><br>
 
-<img align="right" alt="code" width="350" src="https://raw.githubusercontent.com/cssmh/cssmh/main/coding.gif">
+<img align="right" alt="code" width="300" src="https://raw.githubusercontent.com/cssmh/cssmh/main/coding.gif">
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/touristmomen) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tourist_offl) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/momin10)
