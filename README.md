@@ -5,7 +5,7 @@
 📫 How to reach me: mominitmbstu@gmail.com <br>
 💬 Talk to me about React, firebase, JavaScript etc. <br>
 ⚡ Fun fact: Marvel died with iron man and captain america's death | Change my mind! 
-<br><br>
+<br>
 <img align="right" alt="code" width="310" src="https://raw.githubusercontent.com/cssmh/cssmh/main/coding.gif">
 
 ## 🌐 Socials:
