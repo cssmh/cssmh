@@ -22,7 +22,7 @@
 ### 🔝 Total Contributions
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cssmh&theme=radical&" alt="cssmh" /></p>
 
-![Momin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cssmh&theme=react-dark)
+!(https://github-readme-activity-graph.vercel.app/graph?username=cssmh&theme=react-dark)
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cssmh&show_icons=true&locale=en&layout=compact&theme=radical" alt="cssmh" /></p>
 
 ### 🔝 Top Contributed Repo
