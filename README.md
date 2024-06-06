@@ -23,7 +23,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cssmh&theme=radical&" alt="cssmh" /></p>
 
 ![Shovan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=csshovan&theme=react-dark)
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=csshovan&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="csshovan" /></p>
 
 ### 🔝 Top Contributed Repo
 ![Momin's github activity graph](https://github-contributor-stats.vercel.app/api?username=cssmh&limit=5&theme=radical&combine_all_yearly_contributions=true)
