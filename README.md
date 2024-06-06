@@ -1,6 +1,7 @@
 <h1 align="center">💫 Hello</h1>
 <img src="https://raw.githubusercontent.com/cssmh/cssmh/main/banner.jpeg" />
 
+![Profile views](https://komarev.com/ghpvc/?username=cssmh&color=green)
 🌱 I’m currently learning Back-end technology.<br>
 📫 How to reach me: mominitmbstu@gmail.com <br>
 💬 Talk to me about React, Express JS. <br>
