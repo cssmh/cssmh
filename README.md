@@ -26,7 +26,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cssmh&show_icons=true&locale=en&layout=compact&theme=radical" alt="cssmh" /></p>
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=cssmh&limit=5&theme=radical&combine_all_yearly_contributions=true)
+![[Momin's github activity graph]](https://github-contributor-stats.vercel.app/api?username=cssmh&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 
 ### ✍️ Random Dev Quote
