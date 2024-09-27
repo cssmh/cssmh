@@ -1,6 +1,7 @@
 <h1 align="center">💫 Hello</h1>
 <img src="https://raw.githubusercontent.com/cssmh/cssmh/main/banner.jpeg" />
-♥️  I enjoy programming and sharing knowledge**
+
+♥️  I enjoy programming and sharing knowledge
 🌱 I’m currently learning TypeScipt and Next JS.<br>
 📫 How to reach me: mominitmbstu@gmail.com <br>
 🖥️ Portfolio at: https://momin-hossain.netlify.app <br>
