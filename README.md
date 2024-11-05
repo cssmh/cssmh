@@ -4,7 +4,7 @@
 ♥️ I enjoy programming and sharing knowledge<br>
 🌱 I’m currently learning TypeScipt and Next JS.<br>
 📫 How to reach me: mominitmbstu@gmail.com <br>
-🖥️ Portfolio at: https://momin-hossain.netlify.app <br>
+🖥️ Portfolio at: https://momin-hossain.vercel.app <br>
 💬 Talk to me about React, Express JS. <br>
 ⚡ Fun fact: Marvel died with iron man and captain america's death | Change my mind! 
 <br><br>
