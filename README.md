@@ -1,5 +1,4 @@
 <h1 align="center">💫 Hello</h1>
-<img src="https://raw.githubusercontent.com/cssmh/cssmh/main/banner.jpeg" />
 
 ♥️ I enjoy programming and sharing knowledge<br>
 🌱 I’m currently learning TypeScipt and Next JS.<br>
