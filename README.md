@@ -1,7 +1,7 @@
 <h1 align="center">💫 Hello</h1>
 
 ♥️ I enjoy programming and sharing knowledge<br>
-🌱 I’m currently learning TypeScipt and Nextjs.<br>
+🌱 I’m currently learning TypeScipt and Nextjs<br>
 📫 How to reach me: mominitmbstu@gmail.com <br>
 🖥️ Portfolio at: https://momin-hossain.vercel.app <br>
 💬 Talk to me about JavaScript, React.<br>
@@ -22,9 +22,6 @@
 ### 🔝 Total Contributions
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cssmh&theme=radical&" alt="cssmh" /></p>
 
-### 🗂 Summary
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cssmh&theme=radical)
-
 ### 🔝 Top Contributed Repo
 ![Momin's github activity graph](https://github-contributor-stats.vercel.app/api?username=cssmh&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
@@ -32,7 +29,7 @@
 ![Momin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cssmh&theme=react-dark)
 
 ### 🌱 Contribution Graph
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=cssmh&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Momin's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=cssmh&theme=react-dark)](https://github.com/cssmh/github-readme-activity-graph)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
