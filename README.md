@@ -30,7 +30,10 @@
 ![Momin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cssmh&theme=react-dark)
 
 ### 🌱 Contribution Graph
-[![Momin's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=cssmh&theme=react-dark)](https://github.com/cssmh/github-readme-activity-graph)
+[![Momin's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=cssmh&theme=react-dark)]
+
+### 🌱 Contribution Graph
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=cssmh&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
