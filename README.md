@@ -22,6 +22,10 @@
 ### 🔝 Total Contributions
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cssmh&theme=radical&" alt="cssmh" /></p>
 
+## 📂 My Repositories
+![Repositories Chart](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cssmh&theme=radical)
+![Commits Chart](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cssmh&theme=radical)
+
 ### 🔝 Top Contributed Repo
 ![Momin's github activity graph](https://github-contributor-stats.vercel.app/api?username=cssmh&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
@@ -32,10 +36,6 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-## 📂 My Repositories
-![Repositories Chart](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cssmh&theme=radical)
-![Commits Chart](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cssmh&theme=radical)
 
 ## 🌱 Contribution Graph
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=cssmh&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
@@ -48,9 +48,6 @@
 ![Code Time](https://wakatime.com/badge/user/4d57fe95-b2eb-4f3e-87b8-16ce4eb482c4.svg)
 # Welcome to My GitHub! 🌟
 
-## 📂 My Repositories
-![Repositories Chart](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cssmh&theme=radical)
-![Commits Chart](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cssmh&theme=radical)
 
 ## 🌱 Contribution Graph
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=cssmh&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
