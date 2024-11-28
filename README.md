@@ -24,7 +24,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cssmh&theme=radical&" alt="cssmh" /></p>
 
 ### 📊 Current working stats:
-<p align="center"><img style="max-width: 100%; height: auto;" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cssmh&theme=radical" alt="Profile details" /> </p>
+<p align="left"><img style="max-width: 100%; height: auto;" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cssmh&theme=radical" alt="Profile details" /> </p>
 
 ### 🔝 Top Contributed Repo
 ![Momin's github activity graph](https://github-contributor-stats.vercel.app/api?username=cssmh&limit=5&theme=radical&combine_all_yearly_contributions=true)
