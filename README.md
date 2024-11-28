@@ -44,6 +44,3 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cssmh&repo=<repository_name>&theme=radical)](https://github.com/cssmh/<repository_name>)
 ## 🗂 Summary
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cssmh&theme=radical)
-
-## 🗂 Summary
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cssmh&theme=radical)
