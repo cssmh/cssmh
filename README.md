@@ -31,8 +31,9 @@
 
 ### 🔝 Contribution Graph
 ![Momin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cssmh&theme=react-dark)
+
 ### 🌱 Contribution Graph
-[![Momin's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=cssmh&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=cssmh&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
@@ -43,41 +44,6 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cssmh&repo=<repository_name>&theme=radical)](https://github.com/cssmh/<repository_name>)
 ## 🗂 Summary
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cssmh&theme=radical)
-## 📊 Activity Overview
-![Lines of Code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-10%20Million%20lines%20of%20code-blue)
-![Code Time](https://wakatime.com/badge/user/4d57fe95-b2eb-4f3e-87b8-16ce4eb482c4.svg)
-# Welcome to My GitHub! 🌟
-
-
-## 🌱 Contribution Graph
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=cssmh&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-## 🚀 Repository Highlights
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cssmh&repo=sample-repo&theme=radical)](https://github.com/cssmh/sample-repo)
 
 ## 🗂 Summary
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cssmh&theme=radical)
-
-## 📊 Activity Overview
-![Lines of Code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-10%20Million%20lines%20of%20code-blue)
-## 📈 Contribution Graph
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=cssmh&bg_color=0d1117&color=ffffff&line=5BCDEC&point=FFFFFF&area=true&hide_border=true)](https://github.com/cssmh)
-
----
-
-## 🌟 GitHub Profile Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=cssmh&theme=radical&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-## 📊 Total Repositories and Followers
-![Total Repositories](https://custom-icon-badges.demolab.com/badge/dynamic/json?label=Repositories&query=$.public_repos&url=https://api.github.com/users/cssmh&color=blue&logo=repo&logoColor=white)
-
-![Followers](https://custom-icon-badges.demolab.com/badge/dynamic/json?label=Followers&query=$.followers&url=https://api.github.com/users/cssmh&color=red&logo=people&logoColor=white)
-
----
-
-## 🛠️ Weekly Development Breakdown
-<!-- Use wakatime for dynamic stats -->
-[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=cssmh&layout=compact&theme=radical)](https://wakatime.com/@cssmh)
-
