@@ -31,35 +31,54 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-# Welcome to My Profile! 👋
+## 📂 My Repositories
+![Repositories Chart](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cssmh&theme=radical)
+![Commits Chart](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cssmh&theme=radical)
 
-![Profile Views](https://komarev.com/ghpvc/?username=cssmh&label=Profile%20views&color=0e75b6&style=flat)
+## 🌱 Contribution Graph
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=cssmh&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+## 🚀 Repository Highlights
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cssmh&repo=<repository_name>&theme=radical)](https://github.com/cssmh/<repository_name>)
+## 🗂 Summary
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cssmh&theme=radical)
+## 📊 Activity Overview
+![Lines of Code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-10%20Million%20lines%20of%20code-blue)
+![Code Time](https://wakatime.com/badge/user/4d57fe95-b2eb-4f3e-87b8-16ce4eb482c4.svg)
+# Welcome to My GitHub! 🌟
 
-## 📊 My GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cssmh&show_icons=true&theme=radical)
+## 📂 My Repositories
+![Repositories Chart](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cssmh&theme=radical)
+![Commits Chart](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cssmh&theme=radical)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cssmh&theme=radical)](https://git.io/streak-stats)
+## 🌱 Contribution Graph
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=cssmh&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cssmh&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+## 🚀 Repository Highlights
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cssmh&repo=sample-repo&theme=radical)](https://github.com/cssmh/sample-repo)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=cssmh&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+## 🗂 Summary
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cssmh&theme=radical)
+
+## 📊 Activity Overview
+![Lines of Code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-10%20Million%20lines%20of%20code-blue)
+## 📈 Contribution Graph
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=cssmh&bg_color=0d1117&color=ffffff&line=5BCDEC&point=FFFFFF&area=true&hide_border=true)](https://github.com/cssmh)
 
 ---
 
-## 🛠️ Skills
-![HTML5](https://img.shields.io/badge/HTML5-239120?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+## 🌟 GitHub Profile Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=cssmh&theme=radical&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
-## ✨ Fun Additions
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## 📊 Total Repositories and Followers
+![Total Repositories](https://custom-icon-badges.demolab.com/badge/dynamic/json?label=Repositories&query=$.public_repos&url=https://api.github.com/users/cssmh&color=blue&logo=repo&logoColor=white)
 
-![Snake Animation](https://github.com/cssmh/cssmh/blob/output/github-contribution-grid-snake.svg)
+![Followers](https://custom-icon-badges.demolab.com/badge/dynamic/json?label=Followers&query=$.followers&url=https://api.github.com/users/cssmh&color=red&logo=people&logoColor=white)
 
 ---
 
+## 🛠️ Weekly Development Breakdown
+<!-- Use wakatime for dynamic stats -->
+[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=cssmh&layout=compact&theme=radical)](https://wakatime.com/@cssmh)
 
