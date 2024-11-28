@@ -30,3 +30,36 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+# Welcome to My Profile! 👋
+
+![Profile Views](https://komarev.com/ghpvc/?username=cssmh&label=Profile%20views&color=0e75b6&style=flat)
+
+## 📊 My GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cssmh&show_icons=true&theme=radical)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cssmh&theme=radical)](https://git.io/streak-stats)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cssmh&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=cssmh&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+## 🛠️ Skills
+![HTML5](https://img.shields.io/badge/HTML5-239120?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+
+---
+
+## ✨ Fun Additions
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+![Snake Animation](https://github.com/cssmh/cssmh/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+
