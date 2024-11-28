@@ -21,11 +21,6 @@
           src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cssmh&theme=radical"
           alt="Profile details"
         />
-        <img
-          style="max-width: 100%; height: auto;"
-          src="https://github-readme-streak-stats.herokuapp.com?user=jobayer109&theme=blue-green&hide_border=true"
-          alt="Streak Stats"
-        />
 </div>
 
 ### 📊 GitHub Stats:
