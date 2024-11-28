@@ -38,9 +38,5 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-## 🌱 Contribution Graph
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=cssmh&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-## 🚀 Repository Highlights
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cssmh&repo=<repository_name>&theme=radical)](https://github.com/cssmh/<repository_name>)
 ## 🗂 Summary
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cssmh&theme=radical)
