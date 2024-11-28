@@ -16,42 +16,16 @@
 
 ## 📊 Current working stats:
 <div align="center">
-  <table align="center" width="100%" style="max-width: 800px; margin: auto;">
-    <tr>
-      <td align="center" style="padding: 10px;">
         <img
           style="max-width: 100%; height: auto;"
           src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cssmh&theme=radical"
           alt="Profile details"
         />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
         <img
           style="max-width: 100%; height: auto;"
           src="https://github-readme-streak-stats.herokuapp.com?user=jobayer109&theme=blue-green&hide_border=true"
           alt="Streak Stats"
         />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <div style="display: flex; flex-direction: column; align-items: center;">
-          <img
-          style="max-width: 100%; height: auto;"
-          alt="Jobayer Ahmed :: Profile Stats"
-          src="https://github-readme-stats.vercel.app/api?username=jobayer109&theme=blue-green&show_icons=true&count_private=true&hide_border=true"
-        />
-          <img
-            style="max-width: 100%; height: auto; margin: 10px 0;"
-            alt="Jobayer Ahmed :: Top Langs"
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=jobayer109&langs_count=20&theme=blue-green&layout=compact&hide=html&hide_border=true"
-          />
-        </div>
-      </td>
-    </tr>
-  </table>
 </div>
 
 ### 📊 GitHub Stats:
