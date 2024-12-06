@@ -30,8 +30,7 @@
     </a>
   </p>
 </div>
-
-<br><br>
+<br>
 <img align="right" alt="code" width="310" src="https://raw.githubusercontent.com/cssmh/cssmh/main/coding.gif">
 <br>
 ## 🛠️ Skills:
