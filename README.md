@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👋 Hey, I'm <span style="color:#6C63FF;">Momin Hossain</span>!</h1>
-  <p>💻 Full-Stack Developer | 🚀 Lifelong Learner | 🌐 Web Enthusiast</p>
+  <p>💻 Full-Stack Developer | 🚀 Focus on Detail | 🌐 Creative Coder</p>
   <img src="https://raw.githubusercontent.com/cssmh/cssmh/main/coding.gif" width="300" alt="Coding" />
 </div>
 
