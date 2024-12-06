@@ -1,14 +1,30 @@
 <div align="center">
   <h1>💫 Hello, I'm <span style="color:#6C63FF;">Momin Hossain</span>!</h1>
   <p>💻 Full-Stack Developer | 🚀 Focus on Detail | 🌐 Creative Coder</p>
-  <img src="https://raw.githubusercontent.com/cssmh/cssmh/main/coding.gif" width="300" alt="Coding" />
 </div>
 
+---
+
+### 💌 Reach Out:
+- 📧 Email: **mominitmbstu@gmail.com**
+- 🖥️ Portfolio: [momin-hossain.vercel.app](https://momin-hossain.vercel.app)
+
+---
+
 ### 🌟 About Me:
-- 💡 Passionate about building **user-friendly web applications**.
-- 🌱 Currently diving into **TypeScript** and **Next.js**.
-- 💬 Love discussing **JavaScript**, **React**, and creative coding ideas.
-- ⚡ Fun fact: *Marvel hasn’t been the same since Iron Man and Captain America left the screen!* 🥲
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <div>
+    - 💡 Passionate about building **user-friendly web applications**.  
+    - 🌱 Currently diving into **TypeScript** and **Next.js**.  
+    - 💬 Love discussing **JavaScript**, **React**, and creative coding ideas.  
+    - ⚡ Fun fact: *Marvel hasn’t been the same since Iron Man and Captain America left the screen!* 🥲  
+  </div>
+  <div>
+    <img src="https://raw.githubusercontent.com/cssmh/cssmh/main/coding.gif" width="300" alt="Coding" />
+  </div>
+</div>
+
+---
 
 <div align="center">
   <h2>🌐 Let's Connect</h2>
@@ -31,18 +47,24 @@
   </p>
 </div>
 
+---
+
 ### 🛠️ My Toolbox:
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,nodejs,express,mongodb,tailwind,figma,vercel,netlify" alt="Skills" />
 </div>
 
+---
+
 <div align="center">
   <h2>📊 GitHub Stats</h2>
- <p align= "left">
-  <img height= "170" src="https://github-readme-stats.vercel.app/api?username=cssmh&theme=radical&show_icons=compact&include_all_commits=true" />
-  <img height= "170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cssmh&theme=radical&layout=compact" />
-</p>
+  <p align="left">
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=cssmh&theme=radical&show_icons=compact&include_all_commits=true" />
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cssmh&theme=radical&layout=compact" />
+  </p>
 </div>
+
+---
 
 ### 📈 My Contributions:
 <div align="center">
@@ -50,14 +72,14 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=cssmh&theme=react-dark" alt="Contribution Graph" />
 </div>
 
-<h2>✍️ Dev Quote of the Day</h2>
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
+---
 
-### 💌 Reach Out:
-- 📧 Email: **mominitmbstu@gmail.com**
-- 🖥️ Portfolio: [momin-hossain.vercel.app](https://momin-hossain.vercel.app)
+<h2>✍️ Dev Quote of the Day</h2>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
+
+---
 
 ### 🔥 Fun Extras:
-- 🚀 Favorite Framework: **React.js**
-- 🎯 Goal: Build impactful and scalable web applications.
+- 🚀 Favorite Framework: **React.js**  
+- 🎯 Goal: Build impactful and scalable web applications.  
 - 🎮 Hobbies: Gaming, exploring new technologies, and binge-watching Marvel movies.
