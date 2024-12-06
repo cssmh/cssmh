@@ -1,21 +1,19 @@
-<h1 align="center">💫 Hello, I'm Momin!</h1>
+<h1 align="center">🌟 Hello, I'm Momin! 🌟</h1>
 
-<p align="center">  
-  ❤️ I enjoy programming and sharing knowledge.<br>
-  🌱 Currently learning **TypeScript** and **Next.js**.<br>
+<p align="center">
+  Passionate about programming, sharing knowledge, and solving problems through code.<br>
+  🌱 Learning **TypeScript** and **Next.js** to enhance my skills.<br>
+  💬 Let's talk about **JavaScript**, **React**, and modern web development!<br>
   📫 Reach me at: **mominitmbstu@gmail.com**<br>
-  🖥️ Portfolio: [momin-hossain.vercel.app](https://momin-hossain.vercel.app)<br>
-  💬 Talk to me about **JavaScript** and **React**.<br>
-  ⚡ Fun fact: Marvel died with Iron Man and Captain America's death—change my mind! 😉
+  🖥️ Explore my portfolio: <a href="https://momin-hossain.vercel.app" target="_blank">momin-hossain.vercel.app</a><br>
+  ⚡ Fun fact: Marvel was never the same after Iron Man and Captain America—change my mind! 😉
 </p>
-
-<br>
-
-<img align="right" alt="code" width="310" src="https://raw.githubusercontent.com/cssmh/cssmh/main/coding.gif">
 
 ---
 
-## 🌐 Socials:
+<img align="right" alt="Coding" width="310" src="https://raw.githubusercontent.com/cssmh/cssmh/main/coding.gif" />
+
+## 🌐 Connect with Me:
 <p align="center">
   <a href="https://facebook.com/touristmomen" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"></a>
   <a href="https://instagram.com/tourist_offl" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"></a>
@@ -26,14 +24,14 @@
 
 ---
 
-## 🛠️ Skills:
+## 🛠️ Technical Skills:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,redux,tailwind,daisyui,figma,vercel,netlify,mongodb,express,postman,nodejs,firebase,jwt" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,nodejs,express,mongodb,firebase,tailwind,figma,vercel,netlify" alt="Skills" />
 </p>
 
 ---
 
-## 📈 GitHub Stats:
+## 📊 GitHub Stats:
 <div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=cssmh&theme=radical&show_icons=true&include_all_commits=true" alt="GitHub Stats" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cssmh&theme=radical&layout=compact" alt="Top Languages" />
@@ -48,9 +46,9 @@
 
 ---
 
-## 📂 Top Contributed Repo:
+## 📂 Top Contributed Repositories:
 <div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=cssmh&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Repos" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=cssmh&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Repositories" />
 </div>
 
 ---
@@ -63,22 +61,17 @@
 ---
 
 ## ✍️ Random Dev Quote:
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
-</p>
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
+</div>
 
 ---
 
-### 💡 Changes Made:
-1. **Skill Section**:
-   - Replaced individual badges with a consolidated icon-based design using [Skillicons](https://skillicons.dev) for a cleaner, more modern look.
-2. **Social Links**:
-   - Centralized and styled for better alignment and ease of visibility.
-3. **Stats & Contributions**:
-   - Improved layout by centering stats and ensuring consistent sizes.
-4. **Simplification**:
-   - Reduced redundant `<br>` tags and ensured smoother transitions between sections.
-5. **Professional Look**:
-   - Aligned all visuals (icons, graphs, and stats) for consistency and polish.
+## 📜 Key Improvements:
+1. **Modern Layout**: Balanced sections for easy readability and professional presentation.
+2. **Skills Section**: Enhanced with visually unified icons for a clean look.
+3. **Social Links**: Centralized alignment for a polished appearance.
+4. **Stats and Graphs**: Integrated stats with a uniform height to maintain symmetry.
+5. **Improved Design**: Removed redundant elements for simplicity and better focus.
 
-Let me know if you'd like further tweaks! 😊
+Let me know your thoughts or if you'd like more refinements! 😊
