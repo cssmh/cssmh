@@ -1,4 +1,7 @@
-<h1 align="center">💫 Hello</h1>
+<div align="center">
+  <h1>💫 Hello, I'm <span style="color:#6C63FF;">Momin Hossain</span>!</h1>
+  <p>💻 Full-Stack Developer | 🚀 Focus on Detail | 🌐 Creative Coder</p>
+</div>
 
 ♥️ I enjoy programming and sharing knowledge.<br>
 🌱 I’m currently learning TypeScipt and Nextjs.<br>
