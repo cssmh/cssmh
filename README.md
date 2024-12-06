@@ -50,12 +50,8 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=cssmh&theme=react-dark" alt="Contribution Graph" />
 </div>
 
-<div align="center">
-  <h2>✍️ Dev Quote of the Day</h2>
-  <blockquote>
+<h2>✍️ Dev Quote of the Day</h2>
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
-  </blockquote>
-</div>
 
 ### 💌 Reach Out:
 - 📧 Email: **mominitmbstu@gmail.com**
