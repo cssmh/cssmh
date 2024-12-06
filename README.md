@@ -36,8 +36,6 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,nodejs,express,mongodb,tailwind,figma,vercel,netlify" alt="Skills" />
 </div>
 
----
-
 <div align="center">
   <h2>📊 GitHub Stats</h2>
   <p>
@@ -46,15 +44,11 @@
   </p>
 </div>
 
----
-
 ### 📈 My Contributions:
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=cssmh&theme=radical" alt="GitHub Streak Stats" width="75%" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=cssmh&theme=react-dark" alt="Contribution Graph" width="75%" />
 </div>
-
----
 
 <div align="center">
   <h2>✍️ Dev Quote of the Day</h2>
@@ -63,13 +57,9 @@
   </blockquote>
 </div>
 
----
-
 ### 💌 Reach Out:
 - 📧 Email: **mominitmbstu@gmail.com**
 - 🖥️ Portfolio: [momin-hossain.vercel.app](https://momin-hossain.vercel.app)
-
----
 
 ### 🔥 Fun Extras:
 - 🚀 Favorite Framework: **React.js**
