@@ -1,7 +1,4 @@
-<div align="center">
-  <h1>💫 Hello</h1>
-  <p>👨‍💻 Full-Stack Developer | 🚀 Detail-Oriented | 🎨 Creative Coder</p>
-</div>
+<h1>💫 Hello</h1>
 
 ♥️ I enjoy programming and sharing knowledge.<br>
 🌱 I’m currently learning TypeScipt and Nextjs.<br>
