@@ -10,6 +10,27 @@
 💬 Talk to me about JavaScript, React.<br>
 ⚡ Fun fact: Marvel died with iron man and captain america's death | Change my mind! 
 <br><br>
+<div align="center">
+  <h2>🌐 Let's Connect</h2>
+  <p>
+    <a href="https://facebook.com/touristmomen" target="_blank">
+      <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat&logo=Facebook&logoColor=white" alt="Facebook">
+    </a>
+    <a href="https://instagram.com/tourist_offl" target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white" alt="Instagram">
+    </a>
+    <a href="https://linkedin.com/in/momin01" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=LinkedIn&logoColor=white" alt="LinkedIn">
+    </a>
+    <a href="https://x.com/touristmomin" target="_blank">
+      <img src="https://img.shields.io/badge/X-black.svg?style=flat&logo=X&logoColor=white" alt="X (Twitter)">
+    </a>
+    <a href="https://youtube.com/@tourist19" target="_blank">
+      <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=flat&logo=YouTube&logoColor=white" alt="YouTube">
+    </a>
+  </p>
+</div>
+<br><br>
 <img align="right" alt="code" width="310" src="https://raw.githubusercontent.com/cssmh/cssmh/main/coding.gif">
 <br>
 ## 🛠️ Skills:
