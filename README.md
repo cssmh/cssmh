@@ -38,10 +38,10 @@
 
 <div align="center">
   <h2>📊 GitHub Stats</h2>
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=cssmh&theme=radical&show_icons=true&include_all_commits=true" width="48%" alt="GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cssmh&theme=radical&layout=compact" width="48%" alt="Top Languages" />
-  </p>
+ <p align= "left">
+  <img height= "170" src="https://github-readme-stats.vercel.app/api?username=cssmh&theme=radical&show_icons=compact&include_all_commits=true" />
+  <img height= "170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cssmh&theme=radical&layout=compact" />
+</p>
 </div>
 
 ### 📈 My Contributions:
