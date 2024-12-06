@@ -27,7 +27,7 @@
     </a>
   </p>
   <div>
-<img align="right" alt="code" width="250" src="https://raw.githubusercontent.com/cssmh/cssmh/main/coding.gif"></div>
+<img align="right" alt="code" width="280" src="https://raw.githubusercontent.com/cssmh/cssmh/main/coding.gif"></div>
 </div>
 
 ## 🛠️ Skills:
