@@ -4,7 +4,6 @@
 </div>
 
 ♥️ I enjoy programming and sharing knowledge.<br>
-💡 Passionate about building **user-friendly web applications**.<br>
 🌱 I’m currently learning TypeScipt and Nextjs.<br>
 📫 How to reach me: mominitmbstu@gmail.com <br>
 🖥️ Portfolio at: https://momin-hossain.vercel.app <br>
