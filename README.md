@@ -1,4 +1,4 @@
-<h1>💫 Hello</h1>
+<h1 align="center">💫 Hello</h1>
 
 ♥️ I enjoy programming and sharing knowledge.<br>
 🌱 I’m currently learning TypeScipt and Nextjs.<br>
