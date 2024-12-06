@@ -8,7 +8,8 @@
 📫 How to reach me: mominitmbstu@gmail.com <br>
 🖥️ Portfolio at: https://momin-hossain.vercel.app <br>
 💬 Talk to me about JavaScript, React.<br>
-⚡ Fun fact: Marvel died with iron man and captain america's death | Change my mind! 
+⚡ Fun fact: Marvel died with iron man and captain america's death | Change my mind!
+
 <br><br>
 <div align="center">
   <h2>🌐 Let's Connect</h2>
@@ -30,6 +31,7 @@
     </a>
   </p>
 </div>
+
 <br><br>
 <img align="right" alt="code" width="310" src="https://raw.githubusercontent.com/cssmh/cssmh/main/coding.gif">
 <br>
