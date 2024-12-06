@@ -31,7 +31,7 @@
   </p>
 </div>
 <div style="display: flex; align-items: flex-start; justify-content: space-between;">
-  <div style="width: 65%;">
+  <div style="width: 50%;">
     <h2>🛠️ Skills:</h2>
     <p>
       <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
@@ -55,7 +55,7 @@
       <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" alt="Netlify" />
     </p>
   </div>
-  <div style="width: 35%;">
+  <div style="width: 50%;">
     <img src="https://raw.githubusercontent.com/cssmh/cssmh/main/coding.gif" width="300" alt="Coding" />
   </div>
 </div>
