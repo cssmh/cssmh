@@ -46,8 +46,8 @@
 
 ### 📈 My Contributions:
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cssmh&theme=radical" alt="GitHub Streak Stats" width="70%" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cssmh&theme=react-dark" alt="Contribution Graph" width="75%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cssmh&theme=radical" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cssmh&theme=react-dark" alt="Contribution Graph" />
 </div>
 
 <div align="center">
