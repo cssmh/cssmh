@@ -1,6 +1,6 @@
 <div align="center">
   <h1>💫 Hello</h1>
-  <p>💻 Full-Stack Developer | 🚀 Focus on Detail | 🌐 Creative Coder</p>
+  <p>👨‍💻 Full-Stack Developer | 🚀 Detail-Oriented | 🎨 Creative Coder</p>
 </div>
 
 ♥️ I enjoy programming and sharing knowledge.<br>
@@ -30,7 +30,7 @@
     </a>
   </p>
   <div>
-<img align="right" alt="code" width="310" src="https://raw.githubusercontent.com/cssmh/cssmh/main/coding.gif"></div>
+<img align="right" alt="code" width="280" src="https://raw.githubusercontent.com/cssmh/cssmh/main/coding.gif"></div>
 </div>
 
 ## 🛠️ Skills:
