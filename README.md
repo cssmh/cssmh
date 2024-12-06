@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>💫 Hello, I'm <span style="color:#6C63FF;">Momin Hossain</span>!</h1>
+  <h1>💫 Hello</h1>
   <p>💻 Full-Stack Developer | 🚀 Focus on Detail | 🌐 Creative Coder</p>
   <img src="https://raw.githubusercontent.com/cssmh/cssmh/main/coding.gif" width="300" alt="Coding" />
 </div>
