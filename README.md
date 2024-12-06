@@ -10,7 +10,7 @@
 💬 Talk to me about JavaScript, React.<br>
 ⚡ Fun fact: Marvel died with iron man and captain america's death | Change my mind!
 <br>
-<div align="left">
+<div align="center">
   <h2>🌐 Let's Connect</h2>
   <p>
     <a href="https://facebook.com/touristmomen" target="_blank">
