@@ -1,10 +1,10 @@
 <h1 align="center">💫 Hello</h1>
 
 ♥️ I enjoy programming and sharing knowledge.<br>
-🌱 I’m currently learning TypeScipt and Nextjs.<br>
+🌱 Currently diving into **TypeScript** and **Next.js**.<br>
 📫 How to reach me: mominitmbstu@gmail.com <br>
 🖥️ Portfolio at: https://momin-hossain.vercel.app <br>
-💬 Talk to me about JavaScript, React.<br>
+💬 Love discussing **React**, **Nextjs**, and creative coding ideas.<br>
 ⚡ Fun fact: Marvel died with iron man and captain america's death | Change my mind!
 <br>
 <div align="center">
