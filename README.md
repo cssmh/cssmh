@@ -31,8 +31,6 @@
   </p>
 </div>
 
----
-
 ### 🛠️ My Toolbox:
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,nodejs,express,mongodb,tailwind,figma,vercel,netlify" alt="Skills" />
