@@ -9,8 +9,7 @@
 🖥️ Portfolio at: https://momin-hossain.vercel.app <br>
 💬 Talk to me about JavaScript, React.<br>
 ⚡ Fun fact: Marvel died with iron man and captain america's death | Change my mind!
-
-<br><br>
+<br>
 <div align="center">
   <h2>🌐 Let's Connect</h2>
   <p>
