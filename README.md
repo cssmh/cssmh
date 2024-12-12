@@ -26,7 +26,10 @@
 ### 📂 Top Contributed Repo
 ![Momin's github activity graph](https://github-contributor-stats.vercel.app/api?username=cssmh&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=cssmh&theme=react-dark" />
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cssmh&theme=tokyonight" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=cssmh&theme=tokyonight" />
+</p>
 
 ### 🌱 Contribution Graph
 ![Momin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cssmh&theme=react-dark)
