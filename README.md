@@ -20,16 +20,16 @@
   <img height= "170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cssmh&theme=radical&layout=compact" />
 </p>
 
+<p align="left">
+  <img height= "170" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cssmh&theme=tokyonight" />
+  <img height= "170" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=cssmh&theme=tokyonight" />
+</p>
+
 ### 🚀 Total Contributions
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cssmh&theme=radical&" alt="cssmh" /></p>
 
 ### 📂 Top Contributed Repo
 ![Momin's github activity graph](https://github-contributor-stats.vercel.app/api?username=cssmh&limit=5&theme=radical&combine_all_yearly_contributions=true)
-
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cssmh&theme=tokyonight" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=cssmh&theme=tokyonight" />
-</p>
 
 ### 🌱 Contribution Graph
 ![Momin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cssmh&theme=react-dark)
