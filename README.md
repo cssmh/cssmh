@@ -20,7 +20,7 @@ I am a passionate programmer who loves sharing knowledge and building meaningful
 
 #### 🚀 Total Contributions
 <p>
-  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=cssmh&theme=radical&" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cssmh&theme=radical&" alt="Streak Stats" />
 </p>
 
 #### 📈 GitHub Stats
