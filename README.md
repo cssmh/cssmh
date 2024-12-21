@@ -1,7 +1,5 @@
 <h1 align="center">💫 Hello</h1>
 
-I am a passionate programmer who loves sharing knowledge and building meaningful projects. I strive to create impactful solutions that help businesses and communities thrive. Here's a quick overview of me:
-
 - ♥️ I enjoy programming and discussing cutting-edge technologies.  
 - 🌱 Currently exploring **Shopify** and **Next.js** to expand my skill set.  
 - 📫 Reach me at **mominitmbstu@gmail.com**.  
