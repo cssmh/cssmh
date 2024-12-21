@@ -34,10 +34,5 @@ I am a passionate programmer who loves sharing knowledge and building meaningful
 
 ---
 
-### ✍️ Developer Quotes
-> _"The best way to predict the future is to invent it."_  
-<sub>- Alan Kay</sub>  
-
----
-
-Thank you for visiting my profile. Feel free to reach out if you'd like to collaborate on exciting projects or discuss new opportunities. 😊
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
