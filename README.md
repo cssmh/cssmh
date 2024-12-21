@@ -7,7 +7,7 @@ I am a passionate programmer who loves sharing knowledge and building meaningful
 - 📫 Reach me at **mominitmbstu@gmail.com**.  
 - 🖥️ Check out my **Portfolio**: [momin-hossain.vercel.app](https://momin-hossain.vercel.app).  
 - 💬 Let's talk about **React** and **Nextjs** tools for crafting exceptional web experiences.  
-- ⚡ Fun fact: *Marvel peaked with Iron Man and Captain America's story arcs. Change my mind!*  
+- ⚡ Fun fact: Marvel died with iron man and captain america's death | Change my mind!
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/touristmomen) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tourist_offl) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/momin01) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/touristmomin) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@tourist19)
 
