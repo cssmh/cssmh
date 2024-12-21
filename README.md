@@ -12,8 +12,8 @@ I am a passionate programmer who loves sharing knowledge and building meaningful
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/touristmomen) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tourist_offl) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/momin01) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/touristmomin) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@tourist19)
 
 #### 🚀 Total Contributions
-<p align="right">
-  <img height="120" src="https://github-readme-streak-stats.herokuapp.com/?user=cssmh&theme=radical&" alt="Streak Stats" />
+<p>
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=cssmh&theme=radical&" alt="Streak Stats" />
 </p>
 
 ## 🛠️ Skills:
