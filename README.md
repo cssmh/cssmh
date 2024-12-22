@@ -1,9 +1,9 @@
 <h1 align="center">💫 Hello</h1>
 
-- ♥️ I enjoy programming and discussing cutting-edge technologies.  
+- ♥️ I enjoy programming and sharing knowledge.  
 - 🌱 Currently exploring **Shopify** and **Next.js** to expand my skill set.  
 - 📫 Reach me at **mominitmbstu@gmail.com**.  
-- 🖥️ Check out my **Portfolio**: [momin-hossain.vercel.app](https://momin-hossain.vercel.app).  
+- 🖥️ Portfolio : https://momin-hossain.vercel.app. 
 - 💬 Let's talk about **React** and **Nextjs** tools for crafting exceptional web experiences.  
 - ⚡ Fun fact: Marvel died with iron man and captain america's death | Change my mind!
 <br>
