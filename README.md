@@ -29,9 +29,7 @@
 </p>
 
 #### 🌱 Contribution Graph
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=cssmh&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ![Momin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cssmh&theme=react-dark)
-
 
 #### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
