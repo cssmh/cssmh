@@ -27,6 +27,8 @@
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=cssmh&theme=radical&show_icons=compact&include_all_commits=true" alt="GitHub Stats" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cssmh&theme=radical&layout=compact" alt="Top Languages" />
   <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cssmh&theme=react&layout=compact" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cssmh&theme=radical" alt="Top Languages" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cssmh&theme=react" />
 </p>
 
 #### 🌱 Contribution Graph
