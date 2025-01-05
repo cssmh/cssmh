@@ -17,19 +17,19 @@
 
 ### 📊 GitHub Overview
 
-#### 🚀 Total Contributions
+### 🚀 Total Contributions
 <p>
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=cssmh&theme=radical&" alt="Streak Stats" />
 </p>
 
-#### 📈 GitHub Stats
+### 📈 GitHub Stats
 <p>
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=cssmh&theme=radical&show_icons=compact&include_all_commits=true" alt="GitHub Stats" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cssmh&theme=radical&layout=compact&langs_count=8" alt="Top Languages" />
 </p>
 
-#### 🌱 Contribution Graph
+### 🌱 Contribution Graph
 ![Momin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cssmh&theme=react-dark)
 
-#### ✍️ Random Dev Quote
+### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
