@@ -24,7 +24,7 @@
 
 #### 📈 GitHub Stats
 <p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=cssmh&theme=radical&show_icons=true&count_private=true&include_all_commits=true&hide_title=true&hide=prs&line_height=24" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=cssmh&theme=radical&show_icons=compact&include_all_commits=true" alt="GitHub Stats" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cssmh&theme=radical&layout=compact&langs_count=15" alt="Top Languages" />
 </p>
 
