@@ -25,10 +25,8 @@
 #### 📈 GitHub Stats
 <p>
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=cssmh&theme=radical&show_icons=compact&include_all_commits=true" alt="GitHub Stats" />
-  <img height="170" width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cssmh&theme=radical&layout=compact&langs_count=10" alt="Top Languages" style="border: 3px solid #ccc; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
+  <img height="170" width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cssmh&theme=radical&layout=compact&langs_count=10" alt="Top Languages" />
 </p>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cssmh&theme=radical&layout=compact&langs_count=10" alt="Top Languages" />
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cssmh&show_icons=true&locale=en&layout=compact" alt="cssmh" /></p>
 
 #### 🌱 Contribution Graph
 ![Momin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cssmh&theme=react-dark)
