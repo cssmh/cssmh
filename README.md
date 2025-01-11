@@ -32,6 +32,12 @@
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=cssmh&theme=radical&" alt="Momin's Streak Stats" />
 </div>
 
+### 📊 New Stats Design
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cssmh&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
+  <img height="170" src="https://github-readme-activity-graph.vercel.app/graph?username=cssmh&theme=react-dark" alt="GitHub Activity Graph" />
+</div>
+
 ### 🌱 Contribution Graph
 ![Momin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cssmh&theme=react-dark)
 
