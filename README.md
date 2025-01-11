@@ -26,6 +26,12 @@
 ### 📈 GitHub Stats
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=cssmh&theme=radical&show_icons=compact&include_all_commits=true" alt="GitHub Stats" />
 
+### 📈 GitHub Stats - New Flex Design
+<div style="display: flex; justify-content: center; align-items: center; flex-direction: column; gap: 40px; border: 3px dashed #4B5563; padding: 25px; border-radius: 20px; background-color: #F9FAFB; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=cssmh&theme=radical&show_icons=compact&include_all_commits=true" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=cssmh&theme=radical&" alt="Momin's Streak Stats" />
+</div>
+
 ### 🌱 Contribution Graph
 ![Momin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cssmh&theme=react-dark)
 
