@@ -20,7 +20,7 @@
 ### 🚀 Total Contributions
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=cssmh&theme=radical&" alt="Momin's Streak Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cssmh&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cssmh&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
 </div>
 
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=cssmh&theme=radical&" alt="Momin's Streak Stats" />
