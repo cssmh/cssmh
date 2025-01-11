@@ -26,6 +26,11 @@
 ### 📈 GitHub Stats
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=cssmh&theme=radical&show_icons=compact&include_all_commits=true" alt="GitHub Stats" />
 
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=cssmh&theme=radical&show_icons=true" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-activity-graph.vercel.app/graph?username=cssmh&theme=react-dark" alt="GitHub Activity Graph" />
+</div>
+
 ### 🌱 Contribution Graph
 ![Momin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cssmh&theme=react-dark)
 
