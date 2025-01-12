@@ -36,11 +36,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cssmh&theme=radical&langs_count=15)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cssmh&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cssmh&theme=radical&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cssmh&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cssmh&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cssmh&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cssmh&theme=radical&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
