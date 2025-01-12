@@ -34,7 +34,7 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cssmh&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cssmh&theme=radical&langs_count=8)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cssmh&layout=compact)
 
