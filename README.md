@@ -23,10 +23,10 @@
 </p>
 
 ### 📈 GitHub Stats
-<p align="center">
+<p>
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=cssmh&theme=radical&show_icons=true&include_all_commits=true" alt="GitHub Stats" />
 </p>
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cssmh&theme=radical&langs_count=20&layout=pie" alt="GitHub Stats" />
 </p>
 
