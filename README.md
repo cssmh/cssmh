@@ -24,8 +24,8 @@
 
 ### 📈 GitHub Stats
 <p>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cssmh&theme=radical&langs_count=20" alt="All Languages" />
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=cssmh&theme=radical&show_icons=true&include_all_commits=true" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cssmh&theme=radical&layout=compact&langs_count=20" alt="All Languages" />
 </p>
 
 ### 🌱 Contribution Graph
@@ -37,5 +37,3 @@
 ![All Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cssmh&theme=radical&langs_count=20)
 
 [![All Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cssmh&theme=radical&langs_count=20&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cssmh&theme=radical&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-
