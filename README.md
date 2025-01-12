@@ -24,12 +24,12 @@
 
 ### 📈 GitHub Stats
 <p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=cssmh&theme=radical&show_icons=compact&include_all_commits=true" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cssmh&theme=radical&layout=compact&langs_count=100" alt="Top Languages" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=cssmh&theme=radical&show_icons=compact&include_all_commits=true" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cssmh&theme=radical&layout=compact&langs_count=100" alt="Top Languages" />
 </p>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=cssmh&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=7)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=cssmh&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=100)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=cssmh&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=10)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=cssmh&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=90)
 
 ### 🌱 Contribution Graph
 ![Momin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cssmh&theme=react-dark)
