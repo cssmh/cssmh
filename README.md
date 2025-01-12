@@ -34,18 +34,6 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=cssmh)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cssmh)](https://github.com/anuraghazra/github-readme-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cssmh&size_weight=0.5&count_weight=0.5)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cssmh&size_weight=0.5&count_weight=0.5)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cssmh&exclude_repo=github-readme-stats,anuraghazra.github.io)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cssmh&hide=javascript,html)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cssmh&langs_count=8)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cssmh&layout=compact)
@@ -58,6 +46,3 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cssmh&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cssmh&hide_progress=true)
-
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=cssmh)](https://github.com/anuraghazra/github-readme-stats)
