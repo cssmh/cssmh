@@ -22,8 +22,6 @@
   <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=cssmh&theme=radical&" alt="Streak Stats" />
 </p>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=cssmh&theme=dark&hide_border=false)
-
 ### 📈 GitHub Stats
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cssmh&theme=radical&langs_count=8" alt="GitHub Stats" />
