@@ -39,11 +39,4 @@
 [![All Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cssmh&theme=radical&langs_count=20&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cssmh&theme=radical&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=cssmh&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=cssmh" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cssmh&layout=compact&langs_count=8&card_width=320" />
-</a>
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=cssmh)](https://github.com/anuraghazra/github-readme-stats)
