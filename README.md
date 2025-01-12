@@ -36,7 +36,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cssmh&theme=radical&langs_count=8)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cssmh&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cssmh&theme=radical&layout=compact)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cssmh&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
