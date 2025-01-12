@@ -34,9 +34,3 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cssmh&theme=radical&langs_count=15)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cssmh&theme=radical&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cssmh&theme=radical&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
-
