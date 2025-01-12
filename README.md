@@ -39,8 +39,8 @@
 [![All Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cssmh&theme=radical&langs_count=20&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=cssmh&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cssmh&repo=github-readme-stats" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cssmh&theme=radical&layout=compact&langs_count=20&card_width=300" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cssmh&repo=convoychat" />
 </a>
