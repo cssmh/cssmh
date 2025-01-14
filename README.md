@@ -27,6 +27,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cssmh&theme=radical&langs_count=8" alt="GitHub Stats" />
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=cssmh&theme=radical&show_icons=true&include_all_commits=true" alt="GitHub Stats" />
 </p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=cssmh&show_icons=true&locale=en" alt="GitHub Stats" />
 
 ### 🌱 Contribution Graph
 ![Momin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cssmh&theme=react-dark)
