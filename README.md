@@ -11,7 +11,7 @@
 
 ## 🌐 Socials:
 <div align="left">
-  <a href="https://facebook.com/touristmomen" target="_blank" rel="noopener noreferrer">
+  <a href="https://facebook.com/touristmomen">
   <img height="30" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
      </a>
   <a href="https://instagram.com/tourist_offl" target="_blank" rel="noopener noreferrer">
