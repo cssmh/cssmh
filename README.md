@@ -15,7 +15,7 @@
   <img height="30" width="52" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" alt="facebook logo" style="vertical-align: middle;"/>
 </a>
   <a href="https://instagram.com/tourist_offl" target="_blank" rel="noopener noreferrer">
-  <img height="30" width="52" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" alt="instagram logo"  />
+  <img height="30" width="52" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" alt="instagram logo"  style="vertical-align: middle;"/>
   </a>
   <a href="https://linkedin.com/in/momin01" target="_blank" rel="noopener noreferrer">
   <img height="30" width="52" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" alt="linkedin logo"  />
