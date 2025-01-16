@@ -10,21 +10,21 @@
 <br>
 
 ## 🌐 Socials:
-<div align="left">
-  <a href="https://facebook.com/touristmomen" target="_blank" rel="noopener noreferrer">
-  <img height="30" width="52" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" alt="facebook logo"  />
+<div align="left" style="display: flex; gap: 10px;">
+  <a href="https://facebook.com/touristmomen" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
+    <img height="30" width="52" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" alt="facebook logo" />
   </a>
-  <a href="https://instagram.com/tourist_offl" target="_blank" rel="noopener noreferrer">
-  <img height="30" width="52" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" alt="instagram logo"  />
+  <a href="https://instagram.com/tourist_offl" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
+    <img height="30" width="52" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" alt="instagram logo" />
   </a>
-  <a href="https://linkedin.com/in/momin01" target="_blank" rel="noopener noreferrer">
-  <img height="30" width="52" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" alt="linkedin logo"  />
+  <a href="https://linkedin.com/in/momin01" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
+    <img height="30" width="52" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" alt="linkedin logo" />
   </a>
-  <a href="https://x.com/touristmomen" target="_blank" rel="noopener noreferrer">
-  <img height="30" width="52" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" alt="twitter logo"  />
+  <a href="https://x.com/touristmomen" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
+    <img height="30" width="52" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" alt="twitter logo" />
   </a>
-  <a href="https://youtube.com/@tourist19" target="_blank" rel="noopener noreferrer">
-  <img height="30" width="52" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" alt="youtube logo"  />
+  <a href="https://youtube.com/@tourist19" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
+    <img height="30" width="52" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" alt="youtube logo" />
   </a>
 </div>
 
