@@ -14,19 +14,19 @@
 
 <div align="left">
   <a href="https://facebook.com/touristmomen" target="_blank" rel="noopener noreferrer" style="margin-right: 10px;">
-    <img width="30" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" alt="Facebook logo" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" alt="Facebook logo" />
   </a>
   <a href="https://instagram.com/tourist_offl" target="_blank" rel="noopener noreferrer" style="margin-right: 10px;">
-    <img width="30" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" alt="Instagram logo" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" alt="Instagram logo" />
   </a>
   <a href="https://linkedin.com/in/momin01" target="_blank" rel="noopener noreferrer" style="margin-right: 10px;">
-    <img width="30" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" alt="LinkedIn logo" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" alt="LinkedIn logo" />
   </a>
   <a href="https://x.com/touristmomen" target="_blank" rel="noopener noreferrer" style="margin-right: 10px;">
-    <img width="30" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" alt="Twitter logo" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" alt="Twitter logo" />
   </a>
   <a href="https://youtube.com/@tourist19" target="_blank" rel="noopener noreferrer">
-    <img width="30" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" alt="YouTube logo" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" alt="YouTube logo" />
   </a>
 </div>
 
