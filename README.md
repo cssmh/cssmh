@@ -13,16 +13,16 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/touristmomen) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tourist_offl) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/momin01) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/touristmomin) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@tourist19)
 
 <div align="left">
-  <a href="https://facebook.com/touristmomen" target="_blank" rel="noopener noreferrer" style="margin-right: 10px;">
+  <a href="https://facebook.com/touristmomen" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" alt="Facebook logo" />
   </a>
-  <a href="https://instagram.com/tourist_offl" target="_blank" rel="noopener noreferrer" style="margin-right: 10px;">
+  <a href="https://instagram.com/tourist_offl" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" alt="Instagram logo" />
   </a>
-  <a href="https://linkedin.com/in/momin01" target="_blank" rel="noopener noreferrer" style="margin-right: 10px;">
+  <a href="https://linkedin.com/in/momin01" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" alt="LinkedIn logo" />
   </a>
-  <a href="https://x.com/touristmomen" target="_blank" rel="noopener noreferrer" style="margin-right: 10px;">
+  <a href="https://x.com/touristmomen" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" alt="Twitter logo" />
   </a>
   <a href="https://youtube.com/@tourist19" target="_blank" rel="noopener noreferrer">
