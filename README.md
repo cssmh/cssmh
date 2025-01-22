@@ -71,12 +71,12 @@
 
 ### 🚀 Total Contributions
 <p>
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=cssmh&theme=radical&" alt="Streak Stats" />
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=cssmh&theme=radical&include_all_commits=true" alt="Streak Stats" />
 </p>
 
 ### 📈 GitHub Stats
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cssmh&theme=radical&langs_count=8&include_all_commits=true"" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cssmh&theme=radical&langs_count=8&include_all_commits=true" alt="GitHub Stats" />
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=cssmh&theme=radical&show_icons=true&include_all_commits=true" alt="GitHub Stats" />
 </p>
 
