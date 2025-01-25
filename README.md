@@ -79,11 +79,11 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=cssmh&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=cssmh)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=cssmh&include_all_commits=true)](https://git.io/streak-stats)
 
 ### 📈 GitHub Stats
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cssmh&theme=radical&langs_count=8" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cssmh&theme=radical&langs_count=8&include_all_commits=true" alt="GitHub Stats" />
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=cssmh&theme=radical&show_icons=true&include_all_commits=true" alt="GitHub Stats" />
 </p>
 
