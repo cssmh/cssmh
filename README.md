@@ -75,6 +75,7 @@
 </p>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=cssmh&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=cssmh)](https://git.io/streak-stats)
 
 ### 📈 GitHub Stats
 <p>
