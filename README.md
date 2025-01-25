@@ -70,7 +70,7 @@
 ### 📊 GitHub Overview
 
 ### 🚀 Total Contributions
-[![GitHub Streak](https://streak-stats.demolab.com/?user=cssmh&theme=dark)](https://git.io/streak-stats)
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=cssmh&theme=radical" alt="Streak Stats" />
 
 ### 📈 GitHub Stats
 <p>
