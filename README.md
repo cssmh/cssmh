@@ -72,6 +72,8 @@
 ### 🚀 Total Contributions
 <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=cssmh&theme=radical" alt="Streak Stats" />
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=cssmh&theme=dark)](https://git.io/streak-stats)
+
 ### 📈 GitHub Stats
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cssmh&theme=radical&langs_count=8&include_all_commits=true" alt="GitHub Stats" />
