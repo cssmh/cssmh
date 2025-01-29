@@ -1,5 +1,7 @@
 <h1 align="center">💫 Hello</h1>
-<p align="center"><img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=cssmh&theme=radical" alt="StreakStats" /></p>
+<p align="center">
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=cssmh&theme=radical" alt="StreakStats" />
+</p>
 
 - ♥️ I enjoy programming and sharing knowledge.  
 - 🌱 Currently exploring **TypeScript** and **Next.js** to expand my skill set.  
