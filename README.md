@@ -70,7 +70,7 @@
 ### 📊 GitHub Overview
 
 ### 🚀 Total Contributions
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=cssmh" alt="StreakStats" />
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=cssmh&theme=radical" alt="StreakStats" />
 
 ### 📈 GitHub Stats
 <p>
