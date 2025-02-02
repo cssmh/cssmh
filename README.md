@@ -1,4 +1,7 @@
 <h1 align="center">💫 Hello</h1>
+<p align="center">
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=cssmh&theme=radical&include_all_commits=true" alt="Streak Stats" />
+</p>
 
 - ♥️ I enjoy programming and sharing knowledge.  
 - 🌱 Currently exploring **TypeScript** and **Next.js** to expand my skill set.  
@@ -69,19 +72,14 @@
 
 ### 📊 GitHub Overview
 
-### 🚀 Total Contributions
-<p>
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=cssmh&theme=radical&" alt="Streak Stats" />
-</p>
-
 ### 📈 GitHub Stats
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cssmh&theme=radical&langs_count=8" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cssmh&include_all_commits=true&theme=radical&langs_count=8&include_all_commits=true" alt="GitHub Stats" />
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=cssmh&theme=radical&show_icons=true&include_all_commits=true" alt="GitHub Stats" />
 </p>
 
 ### 🌱 Contribution Graph
-![Momin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cssmh&theme=react-dark)
+![Momin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cssmh&theme=react-dark&include_all_commits=true)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
