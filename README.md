@@ -79,7 +79,7 @@
 </p>
 
 ### 🌱 Contribution Graph
-![Momin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cssmh&theme=react-dark&include_all_commits=true)
+![Momin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=cssmh&theme=radical)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
