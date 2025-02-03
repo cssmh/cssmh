@@ -1,7 +1,7 @@
 <h1 align="center">💫 Hello</h1>
-
+<p align=center>
 [![GitHub Streak](https://streak-stats.demolab.com/?user=cssmh&theme=radical)](https://git.io/streak-stats)
-
+</p>
 - ♥️ I enjoy programming and sharing knowledge.  
 - 🌱 Currently exploring **TypeScript** and **Next.js** to expand my skill set.  
 - 📫 Reach me at mominitmbstu@gmail.com
