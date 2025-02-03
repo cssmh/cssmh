@@ -4,9 +4,7 @@
   <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=cssmh&theme=radical" alt="Streak Stats" />
 </p>
 
-<p align=center>
 [![GitHub Streak](https://streak-stats.demolab.com/?user=cssmh&theme=radical)](https://git.io/streak-stats)
-</p>
 
 - ♥️ I enjoy programming and sharing knowledge.  
 - 🌱 Currently exploring **TypeScript** and **Next.js** to expand my skill set.  
