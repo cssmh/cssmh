@@ -1,5 +1,9 @@
 <h1 align="center">💫 Hello</h1>
 
+<p align="center">
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=cssmh&theme=radical&border=true" />
+</p>
+
 <p>
 <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=cssmh&theme=radical" alt="Streak Stats" />
 </p>
