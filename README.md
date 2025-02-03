@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img height="180" src="https://streak-stats.demolab.com/?user=cssmh&theme=radical&include_all_commits=true" alt="Streak Stats" />
+  <img height="180" src="https://streak-stats.demolab.com/?user=cssmh&theme=radical&include_all_commits=true&border=true" />
 </p>
 
 - ♥️ I enjoy programming and sharing knowledge.  
