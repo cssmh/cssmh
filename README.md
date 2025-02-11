@@ -5,7 +5,7 @@
 </p>
 
 - ♥️ I enjoy programming and sharing knowledge.  
-- 🌱 Currently exploring **TypeScript** and **Next.js** to expand my skill set.  
+- 🌱 Currently exploring **MySql** and **Next.js** to expand my skill set.  
 - 📫 Reach me at mominitmbstu@gmail.com
 - 🖥️ Portfolio : https://momin-hossain.vercel.app
 - 💬 Let's talk about **React** and **Nextjs** tools for crafting exceptional web experiences.  
