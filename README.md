@@ -24,7 +24,7 @@
   <a href="https://linkedin.com/in/momin01" target="_blank" rel="noopener noreferrer">
    <img height="30" width="52" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" alt="linkedin logo"  />
   </a>
-  <a href="https://x.com/touristmomen" target="_blank" rel="noopener noreferrer">
+  <a href="https://x.com/momin_hossain1" target="_blank" rel="noopener noreferrer">
    <img height="30" width="52" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" alt="twitter logo"  />
   </a>
   <a href="https://youtube.com/@tourist19" target="_blank" rel="noopener noreferrer">
