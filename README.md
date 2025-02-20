@@ -4,10 +4,6 @@
   <img height="180" src="https://streak-stats.demolab.com/?user=cssmh&theme=radical&include_all_commits=true&border=true" />
 </p>
 
-<p align="center">
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=cssmh&theme=radical&border=true" />
-</p>
-
 - ♥️ I enjoy programming and sharing knowledge.  
 - 🌱 Currently exploring **MySql** and **Next.js** to expand my skill set.  
 - 📫 Reach me at mominitmbstu@gmail.com
