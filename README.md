@@ -5,14 +5,14 @@
 </p>
 
 <p align="center">
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=cssmh&theme=radical" />
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=cssmh&theme=radical&border=true" />
 </p>
 
 - ♥️ I enjoy programming and sharing knowledge.  
 - 🌱 Currently exploring **MySql** and **Next.js** to expand my skill set.  
 - 📫 Reach me at mominitmbstu@gmail.com
 - 🖥️ Portfolio : https://momin-hossain.vercel.app
-- 💬 Let's talk about **React** and **Nextjs** tools for crafting exceptional web experiences.  
+- 💬 Let's talk about **Nextjs** and **TypeScript** tools for crafting exceptional web experiences.  
 - ⚡ Fun fact: Marvel died with iron man and captain america's death | Change my mind!
 <img align="right" alt="code" width="280" src="https://raw.githubusercontent.com/cssmh/cssmh/main/coding.gif">
 <br>
