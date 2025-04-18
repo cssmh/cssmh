@@ -8,7 +8,7 @@
 - 🌱 Currently exploring Next.js & MySQL to expand my expertise.
 - 📫 Reach me at mominitmbstu@gmail.com
 - 🖥️ Portfolio : https://momin-hossain.vercel.app
-- 💬 Let's talk about **Nextjs** and **Expressjs** tools for crafting exceptional web experiences.  
+- 💬 Let's talk about **Next.js** and **JavaScript** tools for crafting exceptional web experiences.  
 - ⚡ Fun fact: Marvel died with iron man and captain america's death | Change my mind!
 <img align="right" alt="code" width="280" src="https://raw.githubusercontent.com/cssmh/cssmh/main/coding.gif">
 <br>
