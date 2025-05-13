@@ -1,15 +1,12 @@
 <h1 align="center">💫 Hello</h1>
 
-<p align="center">
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=cssmh&border=true" />
-</p>
 
 <p align="center">
-  <img height="180" src="https://streak-stats.demolab.com/?user=cssmh&theme=radical&include_all_commits=true" alt="Streak Stats" />
+  <img height="180" src="https://streak-stats.demolab.com/?user=cssmh&theme=default&include_all_commits=true" alt="Streak Stats" />
 </p>
 
 <p>
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=cssmh&theme=radical" alt="Streak Stats" />
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=cssmh&theme=default" alt="Streak Stats" />
 </p>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=cssmh&theme=dark)](https://git.io/streak-stats)
