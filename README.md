@@ -1,4 +1,4 @@
-<h1 align="center">💫 Hello</h1>
+<h2 align="center">💫 Hello</h2>
 
 <p align="center">
   <img height="150" src="https://streak-stats.demolab.com/?user=cssmh&theme=radical&include_all_commits=true&border=true" />
