@@ -90,31 +90,7 @@
   </a>
 </div>
 
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=cssmh&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
-</p>
-
 ## ✍️ Random Dev Quote
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
-</p>
-
----
-
-<div align="center">
-  
-  ![Visitors](https://komarev.com/ghpvc/?username=cssmh&color=FF0066&style=flat-square&label=VISITORS)
-  [![wakatime](https://wakatime.com/badge/user/8d24d7b3-5c1f-4c2d-bc8a-5e5c5b5b5b5b.svg?style=flat-square&color=5D00E8)](https://wakatime.com/@8d24d7b3-5c1f-4c2d-bc8a-5e5c5b5b5b5b)
-  
-</div>
-
-> [!NOTE]
-> **About the stats:**
-> - GitHub Stats: Shows my coding activity and most used languages
-> - Activity Graph: Visualizes my contribution patterns
-> - WakaTime: Tracks time spent programming across different languages
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&duration=4000&pause=1000&color=FF0066&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!;Have+a+great+day+😊" alt="Typing SVG" />
 </p>
