@@ -1,7 +1,3 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=FF0066&center=true&vCenter=true&width=435&lines=💫+Hello+World!;👋+I'm+Momin+Hossain" alt="Typing SVG" />
-</h1>
-
 <p align="center">
   <img height="150" src="https://streak-stats.demolab.com/?user=cssmh&theme=radical&include_all_commits=true&border=true" />
 </p>
