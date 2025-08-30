@@ -1,7 +1,7 @@
 <h1 align="center">💫 Hello</h1>
 
 <p align="center">
-  <img height="160" src="https://streak-stats.demolab.com/?user=cssmh&theme=radical&include_all_commits=true&border=true" />
+  <img height="140" src="https://streak-stats.demolab.com/?user=cssmh&theme=radical&include_all_commits=true&border=true" />
 </p>
 
 - ♥️ I enjoy programming and sharing knowledge.  
