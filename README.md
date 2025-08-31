@@ -24,19 +24,19 @@
 ## 🌐 Connect With Me
 <p align="left">
   <a href="https://linkedin.com/in/devmomin" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" height="28" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" height="29" />
   </a>
   <a href="https://x.com/erdmomin" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="Twitter" height="28" />
+    <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="Twitter" height="29" />
   </a>
   <a href="https://facebook.com/touristmomen" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" height="28" />
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" height="29" />
   </a>
   <a href="https://instagram.com/tourist_offl" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" height="28" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" height="29" />
   </a>
   <a href="https://youtube.com/@tourist19" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube" height="28" />
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube" height="29" />
   </a>
 </p>
 
@@ -44,28 +44,28 @@
 
 ### Frontend Development
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,materialui" height="35" title="HTML, CSS, JavaScript, TypeScript, React, Next.js, Redux, Tailwind CSS, Material-UI" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,materialui" height="34" title="HTML, CSS, JavaScript, TypeScript, React, Next.js, Redux, Tailwind CSS, Material-UI" />
 </p>
 
 ### Backend Development
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" height="36" title="Node.js, Express.js, MongoDB, MySQL, Firebase" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" height="34" title="Node.js, Express.js, MongoDB, MySQL, Firebase" />
 </p>
 
 ### Tools & Platforms
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,postman,figma,vercel,netlify,vscode" height="32" title="Git, GitHub, Postman, Figma, Vercel, Netlify, VS Code" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman,figma,vercel,netlify,vscode" height="34" title="Git, GitHub, Postman, Figma, Vercel, Netlify, VS Code" />
 </p>
 
 ### Additional Technologies
 <p align="left">
-  <img src="https://img.shields.io/badge/ShadcnUI-000000?style=flat-square&logo=react&logoColor=white" alt="ShadcnUI" height="26" />
-  <img src="https://img.shields.io/badge/Framer Motion-0055FF?style=flat-square&logo=framer&logoColor=white" alt="Framer Motion" height="26" />
-  <img src="https://img.shields.io/badge/TanStack Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" alt="TanStack Query" height="26" />
-  <img src="https://img.shields.io/badge/TinyMCE-2D8CFF?style=flat-square&logo=tinymce&logoColor=white" alt="TinyMCE" height="26" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT" height="26" />
-  <img src="https://img.shields.io/badge/RESTful APIs-FF6C37?style=flat-square&logo=rest&logoColor=white" alt="RESTful APIs" height="26" />
-  <img src="https://img.shields.io/badge/Multer-000000?style=flat-square&logo=express&logoColor=white" alt="Multer" height="26" />
+  <img src="https://img.shields.io/badge/ShadcnUI-000000?style=flat-square&logo=react&logoColor=white" alt="ShadcnUI" height="29" />
+  <img src="https://img.shields.io/badge/Framer Motion-0055FF?style=flat-square&logo=framer&logoColor=white" alt="Framer Motion" height="29" />
+  <img src="https://img.shields.io/badge/TanStack Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" alt="TanStack Query" height="29" />
+  <img src="https://img.shields.io/badge/TinyMCE-2D8CFF?style=flat-square&logo=tinymce&logoColor=white" alt="TinyMCE" height="29" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT" height="29" />
+  <img src="https://img.shields.io/badge/RESTful APIs-FF6C37?style=flat-square&logo=rest&logoColor=white" alt="RESTful APIs" height="29" />
+  <img src="https://img.shields.io/badge/Multer-000000?style=flat-square&logo=express&logoColor=white" alt="Multer" height="29" />
 </p>
 
 ## 📊 GitHub Analytics
