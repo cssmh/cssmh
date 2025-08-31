@@ -1,7 +1,7 @@
 <h2 align="center">💫 Hello</h2>
 
 <p align="center">
-  <img height="150" src="https://streak-stats.demolab.com/?user=cssmh&theme=radical&include_all_commits=true&border=true" />
+  <img height="160" src="https://streak-stats.demolab.com/?user=cssmh&theme=radical&include_all_commits=true&border=true" />
 </p>
 
 <p align="center">
@@ -24,19 +24,19 @@
 ## 🌐 Connect With Me
 <p align="left">
   <a href="https://linkedin.com/in/devmomin" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" height="24" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" height="28" />
   </a>
   <a href="https://x.com/erdmomin" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="Twitter" height="24" />
+    <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="Twitter" height="28" />
   </a>
   <a href="https://facebook.com/touristmomen" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" height="24" />
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" height="28" />
   </a>
   <a href="https://instagram.com/tourist_offl" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" height="24" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" height="28" />
   </a>
   <a href="https://youtube.com/@tourist19" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube" height="24" />
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube" height="28" />
   </a>
 </p>
 
