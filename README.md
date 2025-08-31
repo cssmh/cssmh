@@ -44,12 +44,12 @@
 
 ### Frontend Development
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,materialui" height="32" title="HTML, CSS, JavaScript, TypeScript, React, Next.js, Redux, Tailwind CSS, Material-UI" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,materialui" height="35" title="HTML, CSS, JavaScript, TypeScript, React, Next.js, Redux, Tailwind CSS, Material-UI" />
 </p>
 
 ### Backend Development
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" height="32" title="Node.js, Express.js, MongoDB, MySQL, Firebase" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" height="36" title="Node.js, Express.js, MongoDB, MySQL, Firebase" />
 </p>
 
 ### Tools & Platforms
