@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://momin-hossain.vercel.app" target="_blank">
+  <a href="https://momin-hossain.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF0066?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="mailto:mominitmbstu@gmail.com">
