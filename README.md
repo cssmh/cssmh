@@ -11,7 +11,7 @@
 
 <img align="right" alt="coding" width="300" src="https://raw.githubusercontent.com/cssmh/cssmh/main/coding.gif">
 
-## About Me
+<h3 align="left">About Me</h3>
 - 💻 Passionate about **building scalable web applications** and sharing knowledge  
 - 🌱 Currently learning **Next.js** & **Nest.js** to strengthen my full-stack expertise  
 - ⚡ Interests: Coding, exploring new technologies, and movies  
