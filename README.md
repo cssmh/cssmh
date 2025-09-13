@@ -7,12 +7,9 @@
   <a href="mailto:mominitmbstu@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/mominalways" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
 </p>
 
-<img align="right" alt="Developer coding animation" width="250" src="https://raw.githubusercontent.com/cssmh/cssmh/main/coding.gif">
+<img align="right" alt="Developer coding animation" width="240" src="https://raw.githubusercontent.com/cssmh/cssmh/main/coding.gif">
 
 - 🔭 **Currently Working On:** Next.js and Nest.js applications  
 - 🌱 **Learning:** Advanced patterns in full-stack development  
@@ -22,6 +19,9 @@
 
 <h3 align="center">Connect With Me</h3>
 <p align="center">
+  <a href="https://linkedin.com/in/mominalways" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
   <a href="https://linkedin.com/in/mominalways" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
