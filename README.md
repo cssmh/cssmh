@@ -16,7 +16,7 @@
 - 🌱 Currently learning **Next.js** & **Nest.js** to strengthen my full-stack expertise  
 - ⚡ Interests: Coding, exploring new technologies, and movies  
 
-<h3 align="center">Connect With Me</h3>
+<h3 align="left">Connect With Me</h3>
 <p align="left">
   <a href="https://linkedin.com/in/mominalways" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" height="29" />
@@ -36,19 +36,8 @@
 </p>
 
 <h3 align="center">Technical Skills</h3>
-### Frontend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,materialui" height="34" />
-</p>
-
-### Backend
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" height="34" />
-</p>
-
-### Tools & Platforms
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,postman,figma,vercel,netlify,vscode" height="34" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,materialui,nodejs,express,mongodb,mysql,firebase" height="34" />
 </p>
 
 ## 📊 GitHub Analytics
