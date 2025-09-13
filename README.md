@@ -1,10 +1,6 @@
 <h2 align="center">💫 Hello</h2>
 
 <p align="center">
-  <img height="160" src="https://streak-stats.demolab.com/?user=cssmh&theme=radical&include_all_commits=true&border=true" />
-</p>
-
-<p align="center">
   <a href="https://momin-hossain.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF0066?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
@@ -65,6 +61,10 @@
   <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT" height="29" />
   <img src="https://img.shields.io/badge/RESTful APIs-FF6C37?style=flat-square&logo=rest&logoColor=white" alt="RESTful APIs" height="29" />
   <img src="https://img.shields.io/badge/Multer-000000?style=flat-square&logo=express&logoColor=white" alt="Multer" height="29" />
+</p>
+
+<p align="center">
+  <img height="160" src="https://streak-stats.demolab.com/?user=cssmh&theme=radical&include_all_commits=true&border=true" />
 </p>
 
 ## 📊 GitHub Analytics
