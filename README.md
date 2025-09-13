@@ -51,7 +51,8 @@
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cssmh&layout=compact&theme=radical&langs_count=8&border=true&bg_color=0d1117&title_color=ff0066&text_color=ffffff" alt="Top Languages" />
 </div>
 
+
 <div align="center">
-  <img height="160" src="https://github-readme-activity-graph.vercel.app/graph?username=cssmh&theme=react-dark&border=true&area=true&height=300&bg_color=0d1117&color=ffffff&line=ff0066&point=ffffff" alt="Activity Graph" width="90%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cssmh&theme=react-dark&border=true&area=true&height=300&bg_color=0d1117&color=ffffff&line=ff0066&point=ffffff" alt="Activity Graph" width="90%" />
   </a>
 </div>
