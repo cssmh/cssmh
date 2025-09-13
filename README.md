@@ -17,7 +17,7 @@
 - 💬 **Ask Me About:** React, JavaScript, Node.js, and web development best practices  
 - ⚡ **Fun Fact:** I enjoy exploring new technologies and sharing knowledge  
 
-<h3 align="center">Connect With Me</h3>
+<h3 align="left">Connect With Me</h3>
 <p align="center">
   <a href="https://linkedin.com/in/mominalways" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
