@@ -71,10 +71,10 @@
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=cssmh&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=cssmh&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border=true" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cssmh&layout=compact&theme=radical&langs_count=8&hide_border=true" alt="Top Languages" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cssmh&layout=compact&theme=radical&langs_count=8&border=true" alt="Top Languages" />
   </a>
 </div>
 
