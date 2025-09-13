@@ -14,20 +14,18 @@
 
 <img align="right" alt="Developer coding animation" width="300" src="https://raw.githubusercontent.com/cssmh/cssmh/main/coding.gif">
 
-### 👨‍💻 About Me
 - 🔭 **Currently Working On:** Next.js and Nest.js applications  
 - 🌱 **Learning:** Advanced patterns in full-stack development  
 - 👯 **Looking to Collaborate On:** Open-source projects and innovative web solutions  
 - 💬 **Ask Me About:** React, JavaScript, Node.js, and web development best practices  
 - ⚡ **Fun Fact:** I enjoy exploring new technologies and sharing knowledge  
 
-<h3 align="center">🛠️ Technical Expertise</h3>
+<h3 align="center">Technical Expertise</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,materialui,nodejs,express,mongodb,mysql,firebase" height="34" />
 </p>
 
-## 📊 GitHub Analytics
 <p align="center">
   <img height="160" src="https://streak-stats.demolab.com/?user=cssmh&theme=radical&border=true" alt="GitHub Streak" />
 </p>
@@ -41,7 +39,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=cssmh&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" width="90%" />
 </div>
 
-## 🌐 Connect With Me
+<h3 align="center">Connect With Me</h3>
 <p align="center">
   <a href="https://linkedin.com/in/mominalways" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
