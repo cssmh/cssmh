@@ -12,7 +12,7 @@
   </a>
 </p>
 
-<img align="right" alt="Developer coding animation" width="300" src="https://raw.githubusercontent.com/cssmh/cssmh/main/coding.gif">
+<img align="right" alt="Developer coding animation" width="250" src="https://raw.githubusercontent.com/cssmh/cssmh/main/coding.gif">
 
 - 🔭 **Currently Working On:** Next.js and Nest.js applications  
 - 🌱 **Learning:** Advanced patterns in full-stack development  
