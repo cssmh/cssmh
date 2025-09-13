@@ -11,11 +11,15 @@
 
 <img align="right" alt="Developer coding animation" width="240" src="https://raw.githubusercontent.com/cssmh/cssmh/main/coding.gif">
 
-- 🔭 **Currently Working On:** Next.js and Nest.js applications  
-- 🌱 **Learning:** Advanced patterns in full-stack development  
-- 👯 **Looking to Collaborate On:** Open-source projects and innovative web solutions  
-- 💬 **Ask Me About:** React, JavaScript, Node.js, and web development best practices  
-- ⚡ **Fun Fact:** I enjoy exploring new technologies and sharing knowledge  
+- 🔭 **Currently Working On:** Next.js and Nest.js applications
+  
+- 🌱 **Learning:** Advanced patterns in full-stack development
+  
+- 👯 **Looking to Collaborate On:** Open-source projects and innovative web solutions
+  
+- 💬 **Ask Me About:** React, JavaScript, Node.js, and web development best practices
+  
+- ⚡ What I like to do: I like Coding, Exploring, watching movies etc.
 
 <h3 align="left">Connect With Me</h3>
 <p align="center">
