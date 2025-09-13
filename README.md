@@ -17,9 +17,8 @@
 
 ## 📖 About Me
 - ♥️ I enjoy programming and sharing knowledge
-- 🌱 Currently exploring **Next.js** & **MySQL** to expand my expertise
-- 💬 Let's talk about **Next.js** and **JavaScript** tools for crafting exceptional web experiences
-- ⚡ Fun fact: Marvel died with iron man and captain america's death | Change my mind!
+- 🌱 Currently exploring **Next.js** & **Nest.js** to expand my expertise
+- ⚡ What I like to do: I like Coding, Exploring, watching movies etc.
 
 ## 🌐 Connect With Me
 <p align="left">
