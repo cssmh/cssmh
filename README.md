@@ -13,7 +13,7 @@
 
 - 🔭 **Currently Learning:** Next.js and Nest.js applications
   
-- 🌱 Skill Development:** Advanced architectural patterns and performance optimization techniques
+- 🌱 Actively Learning: Advanced patterns in full-stack development
   
 - 👯 **Looking to Collaborate On:** Open-source projects and innovative web solutions
   
