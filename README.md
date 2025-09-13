@@ -11,12 +11,12 @@
 
 <img align="right" alt="coding" width="300" src="https://raw.githubusercontent.com/cssmh/cssmh/main/coding.gif">
 
-## 📖 About Me
+## About Me
 - 💻 Passionate about **building scalable web applications** and sharing knowledge  
 - 🌱 Currently learning **Next.js** & **Nest.js** to strengthen my full-stack expertise  
 - ⚡ Interests: Coding, exploring new technologies, and movies  
 
-## 🌐 Connect With Me
+<h3 align="center">Connect With Me</h3>
 <p align="left">
   <a href="https://linkedin.com/in/mominalways" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" height="29" />
@@ -35,8 +35,7 @@
   </a>
 </p>
 
-## 🛠️ Technical Skills
-
+<h3 align="center">Technical Skills</h3>
 ### Frontend
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,materialui" height="34" />
