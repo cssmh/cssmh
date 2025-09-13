@@ -43,12 +43,12 @@
 </p>
 
 <p align="center">
-  <img height="160" src="https://streak-stats.demolab.com/?user=cssmh&theme=radical&border=true" alt="GitHub Streak" />
+  <img height="160" src="https://streak-stats.demolab.com/?user=cssmh&theme=radical&border=true&background=0d1117&ring=ff0066&fire=ff0066&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" />
 </p>
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=cssmh&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cssmh&layout=compact&theme=radical" alt="Top Languages" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=cssmh&show_icons=true&theme=radical&count_private=true&border=true&bg_color=0d1117&title_color=ff0066&icon_color=ff0066&text_color=ffffff" alt="GitHub Stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cssmh&layout=compact&theme=radical&langs_count=8&border=true&bg_color=0d1117&title_color=ff0066&text_color=ffffff" alt="Top Languages" />
 </div>
 
 <div align="center">
