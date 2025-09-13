@@ -1,4 +1,4 @@
-<h2 align="center">💫 Hello, I'm Momin Hossain</h2>
+<h2 align="center">💫 Hello</h2>
 
 <p align="center">
   <a href="https://momin-hossain.netlify.app" target="_blank">
@@ -11,14 +11,10 @@
 
 <img align="right" alt="coding" width="300" src="https://raw.githubusercontent.com/cssmh/cssmh/main/coding.gif">
 
----
-
 ## 📖 About Me
 - 💻 Passionate about **building scalable web applications** and sharing knowledge  
 - 🌱 Currently learning **Next.js** & **Nest.js** to strengthen my full-stack expertise  
 - ⚡ Interests: Coding, exploring new technologies, and movies  
-
----
 
 ## 🌐 Connect With Me
 <p align="left">
@@ -39,8 +35,6 @@
   </a>
 </p>
 
----
-
 ## 🛠️ Technical Skills
 
 ### Frontend
@@ -58,8 +52,6 @@
   <img src="https://skillicons.dev/icons?i=git,github,postman,figma,vercel,netlify,vscode" height="34" />
 </p>
 
----
-
 ## 📊 GitHub Analytics
 <p align="center">
   <img height="160" src="https://streak-stats.demolab.com/?user=cssmh&theme=radical&border=true" alt="GitHub Streak" />
@@ -73,8 +65,6 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=cssmh&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" width="90%" />
 </div>
-
----
 
 ## ✍️ Developer Quote
 <p align="center">
