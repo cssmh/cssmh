@@ -35,39 +35,25 @@
   </a>
 </p>
 
-## 🛠️ Technical Skills
+<h3 align="center">Technical Skills:</h3>
 
-### Frontend Development
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,materialui" height="34" title="HTML, CSS, JavaScript, TypeScript, React, Next.js, Redux, Tailwind CSS, Material-UI" />
 </p>
 
 ### Backend Development
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" height="34" title="Node.js, Express.js, MongoDB, MySQL, Firebase" />
 </p>
 
 ### Tools & Platforms
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,postman,figma,vercel,netlify,vscode" height="34" title="Git, GitHub, Postman, Figma, Vercel, Netlify, VS Code" />
 </p>
-
-### Additional Technologies
-<p align="left">
-  <img src="https://img.shields.io/badge/ShadcnUI-000000?style=flat-square&logo=react&logoColor=white" alt="ShadcnUI" height="29" />
-  <img src="https://img.shields.io/badge/Framer Motion-0055FF?style=flat-square&logo=framer&logoColor=white" alt="Framer Motion" height="29" />
-  <img src="https://img.shields.io/badge/TanStack Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" alt="TanStack Query" height="29" />
-  <img src="https://img.shields.io/badge/TinyMCE-2D8CFF?style=flat-square&logo=tinymce&logoColor=white" alt="TinyMCE" height="29" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT" height="29" />
-  <img src="https://img.shields.io/badge/RESTful APIs-FF6C37?style=flat-square&logo=rest&logoColor=white" alt="RESTful APIs" height="29" />
-  <img src="https://img.shields.io/badge/Multer-000000?style=flat-square&logo=express&logoColor=white" alt="Multer" height="29" />
-</p>
-
+## 📊 GitHub Analytics
 <p align="center">
   <img height="160" src="https://streak-stats.demolab.com/?user=cssmh&theme=radical&include_all_commits=true&border=true" />
 </p>
-
-## 📊 GitHub Analytics
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
