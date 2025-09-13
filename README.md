@@ -20,8 +20,20 @@
 - 💬 **Ask Me About:** React, JavaScript, Node.js, and web development best practices  
 - ⚡ **Fun Fact:** I enjoy exploring new technologies and sharing knowledge  
 
-<h3 align="center">Technical Expertise</h3>
+<h3 align="center">Connect With Me</h3>
+<p align="center">
+  <a href="https://linkedin.com/in/mominalways" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://x.com/erdmomin" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="https://youtube.com/@tourist19" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+</p>
 
+<h3 align="center">Technical Expertise</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,materialui,nodejs,express,mongodb,mysql,firebase" height="34" />
 </p>
@@ -38,16 +50,3 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=cssmh&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" width="90%" />
 </div>
-
-<h3 align="center">Connect With Me</h3>
-<p align="center">
-  <a href="https://linkedin.com/in/mominalways" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://x.com/erdmomin" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
-  <a href="https://youtube.com/@tourist19" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-</p>
