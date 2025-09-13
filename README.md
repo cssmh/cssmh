@@ -52,5 +52,6 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cssmh&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" width="90%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cssmh&theme=react-dark&border=true&area=true&height=300&bg_color=0d1117&color=ffffff&line=ff0066&point=ffffff" alt="Activity Graph" width="90%" />
+  </a>
 </div>
