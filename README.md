@@ -1,4 +1,4 @@
-<h2 align="center">💫 Hello, I'm Momin Hossain</h2>
+<h2 align="center">💫 Hello</h2>
 
 <p align="center">
   <a href="https://momin-hossain.netlify.app" target="_blank">
@@ -14,8 +14,6 @@
 
 <img align="right" alt="Developer coding animation" width="300" src="https://raw.githubusercontent.com/cssmh/cssmh/main/coding.gif">
 
----
-
 ### 👨‍💻 About Me
 - 🔭 **Currently Working On:** Next.js and Nest.js applications  
 - 🌱 **Learning:** Advanced patterns in full-stack development  
@@ -23,20 +21,11 @@
 - 💬 **Ask Me About:** React, JavaScript, Node.js, and web development best practices  
 - ⚡ **Fun Fact:** I enjoy exploring new technologies and sharing knowledge  
 
----
-
 <h3 align="center">🛠️ Technical Expertise</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,materialui,nodejs,express,mongodb,mysql,firebase" height="34" />
 </p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" height="28" />
-  <img src="https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white" height="28" />
-</p>
-
----
 
 ## 📊 GitHub Analytics
 <p align="center">
@@ -51,8 +40,6 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=cssmh&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" width="90%" />
 </div>
-
----
 
 ## 🌐 Connect With Me
 <p align="center">
