@@ -40,14 +40,13 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,materialui,nodejs,express,mongodb,mysql,firebase" height="34" />
 </p>
 
-## 📊 GitHub Analytics
 <p align="center">
   <img height="160" src="https://streak-stats.demolab.com/?user=cssmh&theme=radical&border=true" alt="GitHub Streak" />
 </p>
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=cssmh&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cssmh&layout=compact&theme=radical" alt="Top Languages" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=cssmh&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cssmh&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
 <div align="center">
