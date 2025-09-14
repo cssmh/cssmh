@@ -11,7 +11,7 @@
 
 <img align="right" alt="Developer coding animation" width="240" src="https://raw.githubusercontent.com/cssmh/cssmh/main/coding.gif">
 
-- 🔭 **Currently Learning:** Next.js and Nest.js applications
+- 🔭 **Currently Learning: Next.js and Nest.js to strengthen my full-stack development skills.
   
 - 🌱 Actively Learning: Advanced patterns in full-stack development
   
