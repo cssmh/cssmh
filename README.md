@@ -11,13 +11,13 @@
 
 <img align="right" alt="Developer coding animation" width="240" src="https://raw.githubusercontent.com/cssmh/cssmh/main/coding.gif">
 
-- 🔭 **Currently Learning: Next.js and Nest.js to expand my knowledge.
+- 🔭 Currently Learning: Nest.js to expand my knowledge.
   
 - 🌱 Actively Learning: Advanced patterns in full-stack development
   
 - 👯 **Looking to Collaborate On:** Open-source projects and innovative web solutions
   
-- 💬 **Ask Me About:** React, JavaScript, Node.js, and web development best practices
+- 💬 Ask me about React
   
 - ⚡ Personal Interests:** Technology exploration, creative coding, and cinematic storytelling
 
