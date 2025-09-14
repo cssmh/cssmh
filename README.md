@@ -15,7 +15,7 @@
   
 - 🌱 Actively Learning: Advanced patterns in full-stack development
   
-- 👯 **Looking to Collaborate On:** Open-source projects and innovative web solutions
+- 👯 Collaborate On: Open-source projects and innovative web solutions
   
 - 💬 Ask me about React
   
