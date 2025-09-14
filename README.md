@@ -43,7 +43,7 @@
 </p>
 
 <p align="center">
-  <img height="160" src="https://streak-stats.demolab.com/?user=cssmh&theme=radical&border=true&background=0d1117&ring=ff0066&fire=ff0066&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" />
+  <img height="160" src="https://streak-stats.demolab.com/?user=cssmh&theme=radical&border=true&background=0d1117&ring=ff0066&fire=ff0066&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&include_private=true" alt="GitHub Streak" />
 </p>
 
 <div align="center">
