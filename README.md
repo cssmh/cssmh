@@ -19,7 +19,7 @@
   
 - 💬 Ask me about React
   
-- ⚡ Personal Interests:** Technology exploration, creative coding, and cinematic storytelling
+- ⚡ Personal Interests: Exploring technology, coding, movies.
 
 <h3 align="center">Connect With Me</h3>
 <p align="center">
