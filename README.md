@@ -1,19 +1,6 @@
 <h2 align="center">💫 Hello</h2>
 
 <p align="center">
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=cssmh&theme=radical&border=true" />
-</p>
-
-<p align="center">
-  <img height="180" src="https://streak-stats.demolab.com/?user=cssmh&theme=radical&include_all_commits=true" alt="Streak Stats" />
-</p>
-
-<p>
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=cssmh&theme=radical" alt="Streak Stats" />
-</p>
-
-
-<p align="center">
   <a href="https://momin-hossain.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF0066?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
