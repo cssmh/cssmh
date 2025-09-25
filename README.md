@@ -26,7 +26,7 @@
 
 <h3 align="center">Technical Expertise</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap,materialui,nodejs,express,mongodb,mysql,firebase" height="34" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,react,nextjs,redux,tailwind,bootstrap,materialui,nodejs,express,mongodb,mysql,firebase" height="34" />
 </p>
 
 <p align="center">
