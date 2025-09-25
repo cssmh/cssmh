@@ -2,14 +2,10 @@
 
 <img align="right" alt="Developer coding animation" width="240" src="https://raw.githubusercontent.com/cssmh/cssmh/main/coding.gif">
 
-- 🔭 Currently Learning: Nest.js to expand my knowledge.
-  
-- 🌱 Actively Learning: Advanced patterns in full-stack development
-  
-- 👯 Collaborate On: Open-source projects and innovative web solutions
-  
-- 💬 Ask me about React
-  
+- 🔭 I'm currently expanding my expertise with **Python** and **Nest.js**.
+- 🌱 I'm actively improving my skills in **advanced full-stack development patterns**.
+- 👯 I'm open to collaborating on **innovative web projects** and **open-source contributions**.
+- 💬 Ask me about **React**, **Node.js**, or anything related to **full-stack development**.
 - ⚡ Personal Interests: Exploring technology, coding, movies.
 
 <h3 align="center">Connect With Me</h3>
