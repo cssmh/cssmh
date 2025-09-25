@@ -1,14 +1,5 @@
 <h2 align="center">💫 Hello</h2>
 
-<p align="center">
-  <a href="https://momin-hossain.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF0066?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="mailto:mominitmbstu@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
-
 <img align="right" alt="Developer coding animation" width="240" src="https://raw.githubusercontent.com/cssmh/cssmh/main/coding.gif">
 
 - 🔭 Currently Learning: Nest.js to expand my knowledge.
@@ -23,17 +14,17 @@
 
 <h3 align="center">Connect With Me</h3>
 <p align="center">
-  <a href="https://linkedin.com/in/mominalways" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://momin-hossain.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF0066?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://www.instagram.com/tourist_offl" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <a href="mailto:mominitmbstu@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://x.com/erdmomin" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
-  <a href="https://youtube.com/@tourist19" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  <a href="https://linkedin.com/in/mominalways" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
