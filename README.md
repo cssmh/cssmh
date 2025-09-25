@@ -24,14 +24,7 @@
   </a>
 </p>
 
-<h3 align="center">Technical Expertise</h3>
-<p align="center" style="max-width:100%; overflow-x:auto;">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,react,nextjs,redux,tailwind,nodejs,express,mongodb,mysql,firebase,git" height="50" />
-</p>
-
-<p align="center">
-  <img height="160" src="https://streak-stats.demolab.com/?user=cssmh&theme=radical&border=true&background=0d1117&ring=ff0066&fire=ff0066&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&include_private=true" alt="GitHub Streak" />
-</p>
+<h3 align="center">Technical Expertise</h3> <p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,react,nextjs,redux,tailwind,nodejs,express,mongodb,mysql,firebase,git" height="34" /> </p>
 
 <div align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=cssmh&show_icons=true&theme=radical&count_private=true&border=true&bg_color=0d1117&title_color=ff0066&icon_color=ff0066&text_color=ffffff" alt="GitHub Stats" />
