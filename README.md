@@ -1,7 +1,5 @@
 <h2 align="center">💫 Hello</h2>
 
-<img align="right" alt="Developer coding animation" width="240" src="https://raw.githubusercontent.com/cssmh/cssmh/main/coding.gif">
-
 - 🔭 I'm currently expanding my expertise with **Python** and **Next.js**.
 - 🌱 I'm actively improving my skills in **advanced full-stack development patterns**.
 - 👯 I'm open to collaborating on **innovative web projects** and **open-source contributions**.
