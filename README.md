@@ -1,3 +1,7 @@
+<p align="center">
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=cssmh&theme=radical&border=true&background=0d1117&ring=ff0066&fire=ff0066&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ff0066&sideLabels=ff0066" />
+</p>
+
 <h2 align="center">💫 Hello</h2>
 
 - 🔭 I'm currently expanding my expertise with **Python** and **Next.js**.
@@ -5,6 +9,20 @@
 - 👯 I'm open to collaborating on **innovative web projects** and **open-source contributions**.
 - 💬 Ask me about **React**, **Node.js**, or anything related to **full-stack development**.
 - ⚡ Personal Interests: Exploring technology, coding, movies.
+
+<h3 align="center">Technical Expertise</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,react,nextjs,redux,tailwind,nodejs,express,mongodb,mysql,firebase,git" height="34" />
+</p>
+
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=cssmh&show_icons=true&theme=radical&count_private=true&border=true&bg_color=0d1117&title_color=ff0066&icon_color=ff0066&text_color=ffffff" alt="GitHub Stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cssmh&layout=compact&theme=radical&langs_count=8&border=true&bg_color=0d1117&title_color=ff0066&text_color=ffffff" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cssmh&theme=react-dark&border=true&area=true&height=300&bg_color=0d1117&color=ffffff&line=ff0066&point=ffffff" alt="Activity Graph" width="90%" />
+</div>
 
 <h3 align="center">Connect With Me</h3>
 <p align="center">
@@ -21,18 +39,3 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
-
-<h3 align="center">Technical Expertise</h3> 
-<p align="center"> 
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,react,nextjs,redux,tailwind,nodejs,express,mongodb,mysql,firebase,git" height="34" /> 
-</p>
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=cssmh&show_icons=true&theme=radical&count_private=true&border=true&bg_color=0d1117&title_color=ff0066&icon_color=ff0066&text_color=ffffff" alt="GitHub Stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cssmh&layout=compact&theme=radical&langs_count=8&border=true&bg_color=0d1117&title_color=ff0066&text_color=ffffff" alt="Top Languages" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=cssmh&theme=radical&border=true&hide_border=false&background=0d1117&stroke=ff0066&ring=ff0066&fire=ff0066&currstreak=ffffff&dates=ffffff&side_main=ffffff&side_secondary=ffffff" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cssmh&theme=react-dark&border=true&area=true&height=300&bg_color=0d1117&color=ffffff&line=ff0066&point=ffffff" alt="Activity Graph" width="90%" />
-</div>
