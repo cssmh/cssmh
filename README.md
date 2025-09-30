@@ -1,7 +1,7 @@
 <h2 align="center">💫 Hello</h2>
 
 - 🔭 I'm currently expanding my expertise with **Python** and **Next.js**.
-- 🌱 I'm actively improving my skills in **advanced full-stack development patterns**.
+- 🌱 I'm actively improving my skills, learning new technologies, and adapting to emerging trends.
 - 👯 I'm open to collaborating on **innovative web projects** and **open-source contributions**.
 - 💬 Ask me about **React**, **Node.js**, or anything related to **full-stack development**.
 - ⚡ Personal Interests: Exploring technology, coding, movies.
@@ -26,7 +26,7 @@
 
 <div align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=cssmh&show_icons=true&theme=radical&count_private=true&border=true&bg_color=0d1117&title_color=ff0066&icon_color=ff0066&text_color=ffffff" alt="GitHub Stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cssmh&layout=compact&theme=radical&langs_count=12&border=true&bg_color=0d1117&title_color=ff0066&text_color=ffffff" alt="Top Languages" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cssmh&layout=compact&theme=radical&langs_count=8&border=true&bg_color=0d1117&title_color=ff0066&text_color=ffffff" alt="Top Languages" />
 </div>
 
 <div align="center">
