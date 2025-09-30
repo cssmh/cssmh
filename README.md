@@ -1,9 +1,5 @@
 <h2 align="center">💫 Hello</h2>
 
-<p align="center">
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=cssmh&theme=radical&border=true&background=0d1117&fire=ff0066&currStreakLabel=ffffff&sideNums=ffffff" alt="GitHub Streak" />
-</p>
-
 - 🔭 I'm currently expanding my expertise with **Python** and **Next.js**.
 - 🌱 I'm actively improving my skills, learning new technologies, and adapting to emerging trends.
 - 👯 I'm open to collaborating on **innovative web projects** and **open-source contributions**.
@@ -34,7 +30,12 @@
 <div align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=cssmh&show_icons=true&theme=radical&count_private=true&border=true&bg_color=0d1117&title_color=ff0066&icon_color=ff0066&text_color=ffffff" alt="GitHub Stats" />
  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cssmh&layout=compact&theme=radical&langs_count=8&border=true&bg_color=0d1117&title_color=ff0066&text_color=ffffff" alt="Top Languages" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=cssmh&theme=radical&border=true&background=0d1117&fire=ff0066&currStreakLabel=ffffff&sideNums=ffffff" alt="GitHub Streak" />
 </div>
+
+<p align="center">
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=cssmh&theme=radical&border=true&background=0d1117&fire=ff0066&currStreakLabel=ffffff&sideNums=ffffff" alt="GitHub Streak" />
+</p>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=cssmh&theme=react-dark&border=true&area=true&height=300&bg_color=0d1117&color=ffffff&line=ff0066&point=ffffff" alt="Activity Graph" width="90%" />
