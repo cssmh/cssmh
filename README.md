@@ -36,9 +36,3 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=cssmh&theme=react-dark&border=true&area=true&height=300&bg_color=0d1117&color=ffffff&line=ff0066&point=ffffff" alt="Activity Graph" width="90%" />
 </div>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=safayat-hossain-007&show_icons=true&locale=en&layout=compact" alt="safayat-hossain-007" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=safayat-hossain-007&show_icons=true&locale=en" alt="safayat-hossain-007" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=safayat-hossain-007&" alt="safayat-hossain-007" /></p>
