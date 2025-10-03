@@ -5,6 +5,8 @@
 - 👯 I'm open to collaborating on **innovative web projects** and **open-source contributions**.
 - 💬 Ask me about **React**, **Node.js**, or anything related to **full-stack development**.
 - ⚡ Personal Interests: Exploring technology, coding, movies.
+- 
+<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=cssmh&theme=radical&border=true&hide_border=false&background=0d1117&stroke=ff0066&ring=ff0066&fire=ff0066&currstreak=ffffff&dates=ffffff&side_main=ffffff&side_secondary=ffffff" alt="GitHub Streak" />
 
 <h3 align="center">Connect With Me</h3>
 <p align="center">
@@ -30,7 +32,7 @@
 <div align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=cssmh&show_icons=true&theme=radical&count_private=true&border=true&bg_color=0d1117&title_color=ff0066&icon_color=ff0066&text_color=ffffff" alt="GitHub Stats" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cssmh&layout=compact&theme=radical&langs_count=9&border=true&bg_color=0d1117&title_color=ff0066&text_color=ffffff" alt="Top Languages" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=cssmh&theme=radical&border=true&hide_border=false&background=0d1117&stroke=ff0066&ring=ff0066&fire=ff0066&currstreak=ffffff&dates=ffffff&side_main=ffffff&side_secondary=ffffff" alt="GitHub Streak" />
+  
 </div>
 
 <div align="center">
