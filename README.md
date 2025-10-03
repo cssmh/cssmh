@@ -30,7 +30,7 @@
 <div align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=cssmh&show_icons=true&theme=radical&count_private=true&border=true&bg_color=0d1117&title_color=ff0066&icon_color=ff0066&text_color=ffffff" alt="GitHub Stats" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cssmh&layout=compact&theme=radical&langs_count=9&border=true&bg_color=0d1117&title_color=ff0066&text_color=ffffff" alt="Top Languages" />
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=cssmh&theme=radical&cache_seconds=3600&v=2" />
+ <img src="https://streak-stats.demolab.com/?user=cssmh&theme=radical&cache_seconds=3600" />
 </div>
 
 <div align="center">
