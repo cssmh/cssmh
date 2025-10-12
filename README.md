@@ -29,7 +29,9 @@
 
 <div align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=cssmh&show_icons=true&theme=radical&count_private=true&border=true&bg_color=0d1117&title_color=ff0066&icon_color=ff0066&text_color=ffffff" alt="GitHub Stats" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cssmh&layout=compact&theme=radical&langs_count=9&border=true&bg_color=0d1117&title_color=ff0066&text_color=ffffff&exclude_repo=REPLACE_WITH_PHP_REPO_NAME" alt="Top Languages" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cssmh&layout=compact&theme=radical&langs_count=9&border=true&bg_color=0d1117&title_color=ff0066&text_color=ffffff" alt="Top Languages" />
+  <br/>
+  <img height="160" src="https://streak-stats.demolab.com?user=cssmh&theme=radical&background=0d1117&ring=ff0066&fire=ff0066&currStreakLabel=ff0066&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" />
 </div>
 
 <div align="center">
