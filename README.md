@@ -22,6 +22,10 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cssmh&layout=compact&theme=react&hide_border=true" height="140" alt="Top Languages" />
+</p>
+
 <h3 align="center">Technical Expertise</h3> 
 <p align="center"> 
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,react,nextjs,redux,tailwind,nodejs,express,mongodb,mysql,firebase,git" height="34" /> 
