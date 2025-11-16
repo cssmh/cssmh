@@ -1,6 +1,6 @@
 <h2 align="center">💫 Hello</h2>
 
-- 🔭 I'm currently expanding my expertise with **Python** and **Next.js**.
+- 🔭 I'm currently expanding my expertise with **Nest.js** and **Next.js**.
 - 🌱 I'm actively improving my skills, learning new technologies, and adapting to emerging trends.
 - 👯 I'm open to collaborating on **innovative web projects** and **open-source contributions**.
 - 💬 Ask me about **React**, **Node.js**, or anything related to **full-stack development**.
