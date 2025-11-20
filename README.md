@@ -3,7 +3,6 @@
 - 🔭 I'm currently expanding my expertise with **Nest.js** and **Next.js**.
 - 🌱 I'm actively improving my skills, learning new technologies, and adapting to emerging trends.
 - 👯 I'm open to collaborating on **innovative web projects** and **open-source contributions**.
-- 💬 Ask me about **React**, **Node.js**, or anything related to **full-stack development**.
 - ⚡ Personal Interests: Exploring technology, coding, movies.
 
 <h3 align="center">Connect With Me</h3>
